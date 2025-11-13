@@ -4,7 +4,7 @@
 
 Our project is based off the Bechdel Test. To pass the Bechdel Test, the movie has to have at least two named women in it who talk to each other about something besides a man. Our classifier would take a movie and use features of that movie to make the classification without actually using the script itself manually performing the test.
 
-For our poject, we've chosen a big movie dataset with over 45000 movies. 
+For our project, we've chosen a big movie dataset with over 45000 movies. 
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv 
 
 For labeling reasons, we are using https://bechdeltest.com/ and their dataset so we have a bechdel rating.
