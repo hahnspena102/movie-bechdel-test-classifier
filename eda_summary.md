@@ -22,9 +22,7 @@ For movies that pass, common words are life, young, family, woman, and new. For 
 
 Unsuprisingly, love is at the top of both movies that pass and fail. It's possible that movies who have a love story sometimes don't have conversations between two women about not a man. 
 
-Overall, these tfidf distributions could be useful for a classifier but there aren't very srong signals going on within them. Nevertheless, there are some strong signals, specifically the words "man" and "girl" so we may be able to use this for our classifier.
-
-
+Overall, these tfidf distributions could be useful for a classifier but there aren't very many strong signals going on within them. Nevertheless, there are some strong signals, specifically the words "man" and "girl" so we may be able to use this for our classifier.
 
 ![title_pass](figures/title_pass.png)
 ![tagline_pass](figures/tagline_pass.png)
@@ -35,6 +33,16 @@ Overall, these tfidf distributions could be useful for a classifier but there ar
 ![tagline_fail](figures/tagline_fail.png)
 ![overview_fail](figures/overview_fail.png)
 
+**Ratings**
+Another feature we decided to look into was ratings. We found that movies that pass the bechdel test tend to get marginally better ratings, while movies that fail the test don't. However, the distributions are not drastically different, so this may not be a good feature to rely on heavily.
+
+![Ratings](figures/ratings_distribution.png)
+
+**Genre**
+We took a look at the distribution of genres for all the movies. Drama and comedy seem are the most common genres for all movies. Passing movies outnumber failing movies in genres such as drama, comedy, romance, horror, family, fantasy, mystery, animation, music, and foreign. Failing movies outnumber passing movies in a smaller number of genres, including action, adventure, crime, science fiction, history, war, western, and documentary. This makes sense, because genres such as war, crime, and adventure tend to be more male-centric. Genre seems like it could be useful for a classifier as there are clear signals for some genres. Since a movie has many genres,
+
+
 
 ### What issues or open questions remain?
+This is a vast dataset, so there are some other features we want to take a look at, such as cast and crew. We believe there may be a good signal in these features, but are not sure what the best way to explore them is.
 
