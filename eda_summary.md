@@ -39,10 +39,17 @@ Another feature we decided to look into was ratings. We found that movies that p
 ![Ratings](figures/ratings_distribution.png)
 
 **Genre**
-We took a look at the distribution of genres for all the movies. Drama and comedy seem are the most common genres for all movies. Passing movies outnumber failing movies in genres such as drama, comedy, romance, horror, family, fantasy, mystery, animation, music, and foreign. Failing movies outnumber passing movies in a smaller number of genres, including action, adventure, crime, science fiction, history, war, western, and documentary. This makes sense, because genres such as war, crime, and adventure tend to be more male-centric. Genre seems like it could be useful for a classifier as there are clear signals for some genres. Since a movie has many genres,
+First we took a look at the distribution of genres for all the movies. Drama and comedy seem are the most common genres for all movies. Passing movies outnumber failing movies in genres such as drama, comedy, romance, horror, family, fantasy, mystery, animation, music, and foreign. Failing movies outnumber passing movies in a smaller number of genres, including action, adventure, crime, science fiction, history, war, western, and documentary. This makes sense, because genres such as war, crime, and adventure tend to be more male-centric. 
+![Genre distribution](figures/genres_distribution.png)
+
+
+Since a movie has many genres, we decided to create a heatmap to see if there was a signal in the genre combinations. Red cells represent the passing movies, and can be seen the brightest for the combos drama and romance, drama and comedy, romance and drama, and romance and comedy. This makes sense because these tend to be genres with importance given to the female characters. Blue cells represent the failing movies, and can be seen the brightest for the combos action and thriller, action and drama, and action and crime. As mentioned before, these are male centric genres.
+![genre heatmap](figures/genres_heatmap.png)
+
+Overall, genre seems like it could be useful for a classifier as there are some strong signals.
 
 
 
 ### What issues or open questions remain?
-This is a vast dataset, so there are some other features we want to take a look at, such as cast and crew. We believe there may be a good signal in these features, but are not sure what the best way to explore them is.
+This is a vast dataset, so there are some other features we want to take a look at, such as cast and crew. We believe there may be a good signal in these features, but are not sure what the best way to explore them is. We also want to take a look into the release year of the films, and see if our hypothesis of older movies being more likely to fail is true. Once we do a little more exploratory data analysis, we can then start experimenting with what features to choose.
 
