@@ -31,9 +31,9 @@ Overall, these tfidf distributions could be useful for a classifier but there ar
 ![overview_pass](figures/overview_pass.png)
 
 
-![title_pass](figures/title_fail.png)
-![tagline_pass](figures/tagline_fail.png)
-![overview_pass](figures/overview_fail.png)
+![title_fail](figures/title_fail.png)
+![tagline_fail](figures/tagline_fail.png)
+![overview_fail](figures/overview_fail.png)
 
 
 ### What issues or open questions remain?
