@@ -1,5 +1,8 @@
 # Final Project Data Gathering + EDA 
 
+Hahns Pena hpena02@calpoly.edu
+
+Ishwarya Namburu inamburu@calpoly.edu
 ### What is your dataset and why did you choose it?
 
 Our project is based off the Bechdel Test. To pass the Bechdel Test, the movie has to have at least two named women in it who talk to each other about something besides a man. Our classifier would take a movie and use features of that movie to make the classification without actually using the script itself manually performing the test.
