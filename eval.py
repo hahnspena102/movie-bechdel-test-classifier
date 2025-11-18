@@ -18,6 +18,7 @@ from sklearn.metrics import (
 from utils import *
 
 from all_pass_classifier import all_pass_classify
+from heuristic import heursitic_model
 from random_forest_classifier import random_forest_classify
 
 
@@ -54,6 +55,7 @@ if __name__ == '__main__':
 
  
     models = {
+        "heuristic": heursitic_model,
         "all_pass": all_pass_classify,
         "random_forest": random_forest_classify,
     }
