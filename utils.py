@@ -13,10 +13,16 @@ P = lambda name: ROOT / name
 def read_and_split_data():
     df = pd.read_parquet('./datasets/movies_metadata.parquet')
     bechdel_df = pd.read_parquet('./datasets/bechdel_ratings.parquet')
+    
+    df['release_date'] = pd.to_datetime(df['release_date'], errors='coerce')
+    df['year'] = df['release_date'].dt.year
 
     df = df.merge(bechdel_df[['imdb_id', 'bechdel_rating']], on='imdb_id', how='left')
     df['bechdel_pass'] = df['bechdel_rating'] >= 3
-    #print(df)
+
+
+    
+
     
     m_train, m_test, _, _ = train_test_split(df, df, test_size=0.2, random_state=42)
     return m_train, m_test
