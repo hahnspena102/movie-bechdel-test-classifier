@@ -18,6 +18,7 @@ from sklearn.metrics import (
 from utils import *
 
 from all_pass_classifier import all_pass_classify
+from heuristic import heursitic_model
 
 
 
@@ -54,6 +55,7 @@ if __name__ == '__main__':
  
     models = {
         "All_Pass": all_pass_classify,
+        "Heuristic": heursitic_model
     }
 
     predictions = {}
