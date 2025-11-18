@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
  
     models = {
-        "heuristic": heursitic_model
+        "heuristic": heursitic_model,
         "all_pass": all_pass_classify,
         "random_forest": random_forest_classify,
     }
