@@ -12,7 +12,7 @@ from pathlib import Path
 from utils import *
 
 def random_forest_classify(m_train, m_test):
-    FEATURES = ['year','popularity','runtime','revenue']
+    FEATURES = ['year','popularity']
     train_data = m_train
     X = train_data[FEATURES]
     y = train_data["bechdel_pass"]
