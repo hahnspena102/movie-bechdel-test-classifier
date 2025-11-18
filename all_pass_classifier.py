@@ -10,9 +10,10 @@ from pathlib import Path
 from utils import *
 
 def all_pass_classify(m_train, m_test):
-    m_test["pass"] = True
-    m_test["pass_prob"] = 1
-    return m_test
+    m_pred = m_test.copy()
+    m_pred["pass"] = True
+    m_pred["pass_prob"] = 1
+    return m_pred
 
 
 

@@ -18,6 +18,7 @@ from sklearn.metrics import (
 from utils import *
 
 from all_pass_classifier import all_pass_classify
+from random_forest_classifier import random_forest_classify
 
 
 
@@ -44,16 +45,17 @@ if __name__ == '__main__':
 
     m_train, m_test = read_and_split_data()
 
-    print("Finding active adventurers subs to publishers...\n")
+    
     
     y_true = m_test['bechdel_pass']
 
-    print(y_true)
+    #print(y_true)
 
 
  
     models = {
-        "All_Pass": all_pass_classify,
+        "all_pass": all_pass_classify,
+        "random_forest": random_forest_classify,
     }
 
     predictions = {}
@@ -61,9 +63,6 @@ if __name__ == '__main__':
     
     for name, model in models.items():
         predictions[name] = model(m_train, m_test)
-        
-        
-        
         y_pred = predictions[name]['pass']
         y_actual = y_true
         
