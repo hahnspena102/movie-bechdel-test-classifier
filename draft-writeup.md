@@ -25,10 +25,3 @@ For our final classifier, we are currently trying to use a random forest classif
 
 Moving forward, we plan on trying out new features. We want to look into using the script to provide more words. We may use sentiment analysis to get more information on the word usage and bechdel pass/fail. Moving away from words, we may look more in detail with features such as year, female crew ratio, female cast ratio, popularity, and revenue. For now, we think random forest works for our model.
 
-Discuss:
-
-Strengths and weaknesses of the baseline.
-
-Possible reasons for errors or bias.
-
-Ideas for final report (e.g., new features, different algorithms, hyperparameter tuning).
