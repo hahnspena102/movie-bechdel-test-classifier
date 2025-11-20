@@ -7,6 +7,7 @@ from sklearn.metrics import roc_auc_score, classification_report
 from sklearn.ensemble import RandomForestClassifier
 from typing import List
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.preprocessing import MultiLabelBinarizer
 
 from pathlib import Path
 
@@ -40,9 +41,25 @@ def random_forest_classify(m_train, m_test):
     # merge tfidf back
     movies_train = pd.concat([movies_train, tfidf_train_df], axis=1)
     movies_test  = pd.concat([movies_test,  tfidf_test_df],  axis=1)
+    
+    #add in genres using multilable binarizer
+    mlb = MultiLabelBinarizer()
 
-    # run random forest
-    FEATURES = ['release_year','popularity'] + list(tfidf_cols)
+    genre_train = mlb.fit_transform(movies_train['all_genres'])
+    genre_test  = mlb.transform(movies_test['all_genres'])
+
+    genre_cols = mlb.classes_ #all the unique genres
+
+    movies_train = pd.concat(
+        [movies_train, pd.DataFrame(genre_train, columns=genre_cols, index=movies_train.index)],
+        axis=1
+    )
+    movies_test = pd.concat(
+        [movies_test, pd.DataFrame(genre_test, columns=genre_cols, index=movies_test.index)],
+        axis=1
+    )
+
+    FEATURES = ['release_year','popularity'] + list(tfidf_cols) + list(genre_cols)
 
     X = movies_train[FEATURES]
     y = movies_train["bechdel_pass"]
