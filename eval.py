@@ -19,12 +19,16 @@ from utils import *
 
 from all_pass_classifier import all_pass_classify
 from heuristic import heursitic_model
-from random_forest_classifier import random_forest_classify
+from sentence_transformer_classifier import sentence_transformer_classify
+from tfidf_classifier import tfidf_classify
 
 
 
 #def print_report(name, y_true, y_pred, y_proba):
-def print_report(name, y_true, y_pred, _):
+def print_report(name, y_true, preds, num_mis = 50): 
+    y_pred = preds['pass']
+    y_proba = preds['pass_prob']
+
     acc = accuracy_score(y_true, y_pred)
     f1 = f1_score(y_true, y_pred)
     cm = confusion_matrix(y_true, y_pred)
@@ -35,6 +39,38 @@ def print_report(name, y_true, y_pred, _):
     print(f"F1 Score: {f1:.4f}")
     print("\nClassification Report:")
     print(classification_report(y_true, y_pred, digits=4, zero_division=0))
+
+    print(f"\nTop {num_mis} Misclassifications:")
+
+    df = pd.DataFrame({
+        "title": m_test["title"].values,
+        "true": y_true,
+        "pred": y_pred
+    })
+
+    # Include probabilities if available
+    if y_proba is not None:
+        df["proba"] = y_proba
+        df["conf_error"] = abs(df["proba"] - df["true"])
+    else:
+        df["proba"] = np.nan
+        df["conf_error"] = 1 
+
+    mis = df[df["true"] != df["pred"]]
+
+    if mis.empty:
+        print("No misclassfications")
+        return
+
+    # Sort by highest confidence error (or fallback)
+    mis_top = mis.sort_values("conf_error", ascending=False).head(num_mis)
+    
+    print(mis_top[["title","true", "pred", "proba", "conf_error"]])
+
+    # save all rows to csv
+    full_csv = f"./evals/{name}_full_predictions.csv"
+    df.to_csv(full_csv, index=False)
+    print(f"\nSaved predictions to {full_csv}")
 
 
 
@@ -50,20 +86,18 @@ if __name__ == '__main__':
     
     y_true = m_test['bechdel_pass']
 
-    #print(y_true)
-
-
- 
     models = {
-        "heuristic": heursitic_model,
         "all_pass": all_pass_classify,
-        "random_forest": random_forest_classify,
+        "heuristic": heursitic_model,
+        "tfidf": tfidf_classify,
+        "sentence_transform": sentence_transformer_classify,
     }
 
     predictions = {}
     probabilities = {}
     
     for name, model in models.items():
+        print(f"---------- Running {name} classifier... ----------")
         predictions[name] = model(m_train, m_test)
         y_pred = predictions[name]['pass']
         y_actual = y_true
@@ -103,10 +137,14 @@ if __name__ == '__main__':
 
         new_name = "_".join([n.lower() for n in name.split()])
         plt.savefig(P(f'./figures/{new_name}_eval.png'))
+        
+        print()
 
+    
         
     for name in models.keys():  
-        print_report(name, y_true, predictions[name]['pass'], None)
+
+        print_report(name, y_true, predictions[name])
 
 
 

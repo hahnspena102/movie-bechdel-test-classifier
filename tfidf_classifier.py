@@ -13,7 +13,7 @@ from pathlib import Path
 
 from utils import *
 
-def random_forest_classify(m_train, m_test):
+def tfidf_classify(m_train, m_test):
     movies_train = m_train.copy()
     movies_test  = m_test.copy()
 
@@ -93,18 +93,15 @@ def random_forest_classify(m_train, m_test):
         "importance": rf.feature_importances_
     }).sort_values(by="importance", ascending=False)
 
-    print(importances.head(30))
+    print(importances.head(10))
   
     return m_pred
     
-
-
 
 if __name__ == "__main__":
     
     
     m_train, m_test = read_and_split_data()
 
-    predictions = random_forest_classify(m_train, m_test)
+    predictions = tfidf_classify(m_train, m_test)
     print(predictions)
-

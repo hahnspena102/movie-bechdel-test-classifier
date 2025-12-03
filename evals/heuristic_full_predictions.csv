@@ -1,0 +1,1603 @@
+title,true,pred,proba,conf_error
+Patton,False,False,1,1
+The Black Imp,False,True,1,1
+Shanghai Express,True,True,1,0
+Kite,False,False,1,1
+Jane Eyre,True,True,1,0
+Two-Faced Woman,False,True,1,1
+Clash of the Titans,True,False,1,0
+Southern Comfort,False,False,1,1
+Gosford Park,True,True,1,0
+John Dies at the End,False,True,1,1
+Little Darlings,True,True,1,0
+White Bird in a Blizzard,True,True,1,0
+Friends with Kids,True,True,1,0
+This Is Not a Film,False,True,1,1
+The Artist,False,True,1,1
+The Bridge on the River Kwai,False,False,1,1
+Night at the Museum: Battle of the Smithsonian,False,False,1,1
+Bullhead,False,False,1,1
+Better Off Dead...,True,True,1,0
+Bachelorette,True,True,1,0
+Talladega Nights: The Ballad of Ricky Bobby,False,True,1,1
+Escape from the Planet of the Apes,False,False,1,1
+Hedwig and the Angry Inch,True,True,1,0
+Sophie Scholl: The Final Days,True,False,1,0
+Crows,True,True,1,0
+The Guilt Trip,True,True,1,0
+My Stepmother is an Alien,True,True,1,0
+Joe Kidd,False,False,1,1
+Mommie Dearest,True,True,1,0
+Munich,False,False,1,1
+When Marnie Was There,True,True,1,0
+Beltracchi - The Art of the Forgery,False,False,1,1
+Footnote,False,True,1,1
+Igby Goes Down,False,True,1,1
+Accepted,False,True,1,1
+The In-Laws,True,False,1,0
+Enchanted,True,True,1,0
+The Baader Meinhof Complex,True,False,1,0
+Nights of Cabiria,True,True,1,0
+Nasty Old People,True,True,1,0
+Miss You Already,True,True,1,0
+The Man with the Golden Gun,False,False,1,1
+I Heart Huckabees,True,True,1,0
+Kiss of the Damned,True,True,1,0
+St. Vincent,True,True,1,0
+"My Son, My Son, What Have Ye Done",False,False,1,1
+Concussion,False,True,1,1
+Freedom Writers,True,False,1,0
+Invasion of the Body Snatchers,True,True,1,0
+The Frighteners,True,True,1,0
+The Gymnast,True,True,1,0
+Brazil,True,True,1,0
+The Book of Eli,True,False,1,0
+Night of the Demon,True,True,1,0
+Casanova,True,True,1,0
+Hall Pass,False,True,1,1
+Hellfighters,False,False,1,1
+Batman & Mr. Freeze: SubZero,False,False,1,1
+Min and Bill,True,True,1,0
+My Big Fat Greek Wedding,True,True,1,0
+Sabrina,True,True,1,0
+The Wind Journeys,False,True,1,1
+Piranha,True,True,1,0
+Herbie Fully Loaded,True,False,1,0
+Our Summer in Provence,True,True,1,0
+A Nightmare on Elm Street,True,True,1,0
+The Pretty One,True,True,1,0
+The Goodbye Girl,True,True,1,0
+The American,False,False,1,1
+The Way Back,False,False,1,1
+Dark Harbor,False,True,1,1
+Tipping the Velvet,True,True,1,0
+Wild Things,True,True,1,0
+Empire Records,True,True,1,0
+Texas Chainsaw 3D,True,True,1,0
+Devdas,True,True,1,0
+Clouds of Sils Maria,True,True,1,0
+Cheaper by the Dozen,False,True,1,1
+Pippi in the South Seas,True,False,1,0
+My Demon Lover,False,True,1,1
+Charade,False,True,1,1
+Unbreakable,False,True,1,1
+The Girl Who Kicked the Hornet's Nest,True,False,1,0
+Comrade X,False,True,1,1
+Defiance,True,False,1,0
+Vive L'Amour,False,True,1,1
+Scent of a Woman,False,True,1,1
+Feeding Frenzy,True,True,1,0
+Wanderlust,True,True,1,0
+The BFG,True,False,1,0
+"The Beast from 20,000 Fathoms",False,False,1,1
+A Time to Kill,False,False,1,1
+The Reluctant Dragon,True,True,1,0
+The Karate Kid,True,False,1,0
+Beloved,True,True,1,0
+The Savages,True,True,1,0
+Fermat's Room,False,True,1,1
+Dummy,True,True,1,0
+Yellowbeard,False,False,1,1
+Das Boot,False,False,1,1
+This Is 40,True,True,1,0
+Animal Crackers,True,True,1,0
+Silent Hill: Revelation 3D,True,True,1,0
+The Nightmare Before Christmas,False,True,1,1
+The Invisible Guest,False,False,1,1
+Pleasantville,True,True,1,0
+The Normal Heart,False,True,1,1
+Triangle,True,True,1,0
+Skin,True,True,1,0
+Foxy Brown,True,False,1,0
+"Suddenly, Last Summer",True,True,1,0
+A Woman Is a Woman,False,True,1,1
+Angry Indian Goddesses,True,True,1,0
+Mega Shark vs Giant Octopus,False,True,1,1
+Magic Mike,True,True,1,0
+Day of the Dead,True,False,1,0
+Marion Bridge,True,True,1,0
+Rich and Famous,True,True,1,0
+Brideshead Revisited,False,True,1,1
+Warm Bodies,False,True,1,1
+Bad Taste,False,False,1,1
+Itty Bitty Titty Committee,True,True,1,0
+Shall We Dance,False,True,1,1
+Hands off Mississippi,True,False,1,0
+An American Werewolf in London,False,True,1,1
+Control,False,False,1,1
+Monga,False,True,1,1
+Treeless Mountain,True,True,1,0
+Fired Up!,False,True,1,1
+The Interview,False,False,1,1
+Goon: Last of the Enforcers,False,True,1,1
+Divine Secrets of the Ya-Ya Sisterhood,True,True,1,0
+Song of the Sea,True,True,1,0
+Blackhat,False,False,1,1
+"Synecdoche, New York",True,True,1,0
+Vanishing on 7th Street,False,True,1,1
+A Little Help,True,True,1,0
+Ten Inch Hero,True,True,1,0
+The Night Flier,True,True,1,0
+Atomic Blonde,True,False,1,0
+The Grudge,True,True,1,0
+A Most Violent Year,True,False,1,0
+Police Academy 4: Citizens on Patrol,False,False,1,1
+Carnival of Souls,True,True,1,0
+Smashing Time,True,True,1,0
+The Girl Who Leapt Through Time,True,True,1,0
+"You, Me and Him",False,True,1,1
+Vanishing Point,False,False,1,1
+Concussion,True,True,1,0
+Nighthawks,False,False,1,1
+The Crown and the Dragon,True,False,1,0
+World Gone Wild,True,False,1,0
+Sneakers,False,False,1,1
+Godzilla vs. Megalon,False,True,1,1
+The Ardor,False,False,1,1
+Fifty Shades Darker,True,True,1,0
+Walking and Talking,True,True,1,0
+Green Lantern,False,False,1,1
+The Silence,True,True,1,0
+The Unknown Woman,True,True,1,0
+Argo,True,True,1,0
+The Judgement,False,True,1,1
+Ginger Snaps 2: Unleashed,True,True,1,0
+Three to Tango,False,True,1,1
+My Name Is Emily,True,True,1,0
+The Dinner Game,False,True,1,1
+RoboCop 3,True,False,1,0
+Vampires,False,False,1,1
+The Snow Queen,True,True,1,0
+My Mother Likes Women,True,True,1,0
+Cloud Atlas,True,True,1,0
+Godzilla vs. Hedorah,True,True,1,0
+Erin Brockovich,True,True,1,0
+The Accidental Tourist,False,True,1,1
+What Dreams May Come,False,True,1,1
+The Snake Pit,True,True,1,0
+Twelve Monkeys,False,True,1,1
+The Game,False,True,1,1
+The 13 Roses,True,True,1,0
+Heartbreak Hotel,False,True,1,1
+Familiar Ground,False,True,1,1
+Cannibal! The Musical,True,False,1,0
+The Magic Box,False,True,1,1
+Harry Potter and the Philosopher's Stone,True,False,1,0
+Animal Kingdom,False,False,1,1
+The Man Who Cried,True,False,1,0
+Canadian Bacon,False,False,1,1
+Jackpot,False,False,1,1
+I Love You Phillip Morris,False,True,1,1
+Rewind,False,True,1,1
+BASEketball,False,True,1,1
+A Few Good Men,False,True,1,1
+The Magdalene Sisters,True,True,1,0
+Bound,True,True,1,0
+Le Week-End,False,True,1,1
+Coffy,False,False,1,1
+Chicago,True,False,1,0
+Bandage,True,True,1,0
+Excalibur,False,False,1,1
+Yelling To The Sky,True,True,1,0
+The Green Inferno,True,False,1,0
+Death Rides a Horse,False,False,1,1
+Hellraiser: Inferno,False,False,1,1
+Overdose,False,True,1,1
+The Frame,True,True,1,0
+The Slumber Party Massacre,True,True,1,0
+Band of Outsiders,True,False,1,0
+Miss Sadie Thompson,True,True,1,0
+Babette's Feast,True,True,1,0
+Hellraiser: Bloodline,False,True,1,1
+Southside with You,False,True,1,1
+Glen or Glenda,False,True,1,1
+The Abyss,True,False,1,0
+2 Fast 2 Furious,False,False,1,1
+Sister Act 2: Back in the Habit,True,True,1,0
+Life Inside Out,True,True,1,0
+Land Ho!,True,False,1,0
+Cat People,True,True,1,0
+Ice Age: Continental Drift,False,False,1,1
+Saw III,True,False,1,0
+Once Upon a Time in Mexico,False,False,1,1
+Sleepless in Seattle,False,True,1,1
+Boom Town,False,False,1,1
+Cinderella,True,True,1,0
+Amityville: The Awakening,True,True,1,0
+My Neighbor Totoro,True,True,1,0
+Year One,True,False,1,0
+Terminal Island,True,False,1,0
+The Giant Gila Monster,True,True,1,0
+The History Boys,False,True,1,1
+French Kiss,False,True,1,1
+The Big Wedding,True,True,1,0
+The General,False,False,1,1
+Night at the Museum: Secret of the Tomb,False,False,1,1
+Tank Girl,True,False,1,0
+Executive Suite,False,True,1,1
+47 Meters Down,True,False,1,0
+King Kong,False,False,1,1
+State of Play,True,False,1,0
+Love Camp,True,False,1,0
+30 Days of Night,False,True,1,1
+Possession,False,True,1,1
+Juno and the Paycock,True,True,1,0
+The Associate,True,True,1,0
+Conversations with God,False,True,1,1
+Thelma & Louise,True,False,1,0
+Ray,True,True,1,0
+Elephant,True,False,1,0
+Kung Fu Panda,True,False,1,0
+In the Cut,True,True,1,0
+Power Rangers,True,False,1,0
+Across the Universe,True,False,1,0
+The Invisible Man,False,True,1,1
+Cycling with Molière,False,True,1,1
+Lakota Woman: Siege at Wounded Knee,True,True,1,0
+Fatal Beauty,False,False,1,1
+Life,True,True,1,0
+Hobo with a Shotgun,False,False,1,1
+Enough,False,True,1,1
+The Awakening,True,True,1,0
+"Race for Your Life, Charlie Brown",True,True,1,0
+The Boys from Brazil,False,True,1,1
+Shanghai Noon,False,False,1,1
+Emelie,True,True,1,0
+Heal the Living,False,True,1,1
+The November Man,False,False,1,1
+Pineapple Express,False,False,1,1
+Mr. Holland's Opus,True,True,1,0
+Draft Day,False,True,1,1
+The Devil and Miss Jones,True,True,1,0
+Lady Chatterley's Lover,True,True,1,0
+The Man in the Iron Mask,False,False,1,1
+The Devil's Violinist,True,True,1,0
+Show Me Love,True,True,1,0
+Monster's Ball,False,True,1,1
+Dream House,True,True,1,0
+Open Road,True,False,1,0
+Four Christmases,True,True,1,0
+Drop Zone,False,False,1,1
+The Lego Movie,True,False,1,0
+The Book of Life,True,False,1,0
+Intruders,True,True,1,0
+Sword of Vengeance,False,False,1,1
+Pecker,True,True,1,0
+The Butler,True,True,1,0
+The Return of Martin Guerre,True,False,1,0
+A Nightmare on Elm Street 5: The Dream Child,True,True,1,0
+The Others,True,True,1,0
+Enchanted April,True,True,1,0
+Exodus: Gods and Kings,False,False,1,1
+"Get Smart, Again!",True,False,1,0
+In My Country,True,True,1,0
+Terminator 2: Judgment Day,True,False,1,0
+Pentathlon,False,False,1,1
+Bullet to the Head,False,False,1,1
+Double Jeopardy,True,False,1,0
+The Letter,False,False,1,1
+The Initiation,True,True,1,0
+Rowing with the Wind,False,True,1,1
+Ben-Hur,False,False,1,1
+The Petrified Forest,True,False,1,0
+Downfall,True,False,1,0
+Sleepwalk with Me,False,True,1,1
+"I Was Born, But...",False,True,1,1
+Family Resemblances,True,True,1,0
+Don Jon,True,True,1,0
+The Adventures of Prince Achmed,False,False,1,1
+The Wrong Man,False,False,1,1
+Monte Carlo,True,False,1,0
+Ricki and the Flash,True,True,1,0
+Ladies in Lavender,True,True,1,0
+The Truth About Emanuel,True,True,1,0
+The Darkest Hour,True,False,1,0
+"The Karate Kid, Part III",False,False,1,1
+The Mask,False,False,1,1
+"Belphegor, Phantom of the Louvre",True,True,1,0
+Human Nature,True,True,1,0
+The Space Between Us,True,False,1,0
+Spice World,True,False,1,0
+Back to School,False,True,1,1
+Deathstalker,False,False,1,1
+Bitch Hug,True,True,1,0
+Chocolat,True,True,1,0
+Stardust,True,False,1,0
+Crocodile Dundee II,False,False,1,1
+Mulberry Street,False,True,1,1
+Jeremiah Johnson,False,False,1,1
+George of the Jungle,True,False,1,0
+Blue Ruin,True,False,1,0
+Born into Brothels,True,True,1,0
+God's Not Dead,True,True,1,0
+Horse Feathers,False,True,1,1
+Nanny McPhee and the Big Bang,True,True,1,0
+Big Eyes,True,True,1,0
+Where Eagles Dare,True,False,1,0
+The Cabin in the Woods,True,True,1,0
+Barbie of Swan Lake,True,True,1,0
+Princess Protection Program,True,True,1,0
+Hypocrites,False,True,1,1
+Whisper,False,False,1,1
+India,False,True,1,1
+May,True,True,1,0
+Day of Wrath,True,True,1,0
+"Ghidorah, the Three-Headed Monster",True,False,1,0
+The Last Unicorn,True,True,1,0
+Management,False,True,1,1
+Satantango,False,True,1,1
+The Thief of Bagdad,False,False,1,1
+"Chill Out, Scooby-Doo!",True,False,1,0
+Double Trouble,False,False,1,1
+Lake Mungo,False,True,1,1
+The Prime of Miss Jean Brodie,True,True,1,0
+Say Uncle,False,True,1,1
+The Man Who Copied,False,True,1,1
+Insidious: Chapter 3,True,True,1,0
+Kangaroo Jack,False,False,1,1
+Don't Make Waves,True,True,1,0
+Ju-on: The Grudge,True,True,1,0
+The Daytrippers,True,True,1,0
+Lady in White,False,True,1,1
+Welcome to Happiness,False,True,1,1
+"Definitely, Maybe",True,True,1,0
+The Royal Tenenbaums,True,True,1,0
+Lady Snowblood,True,False,1,0
+Interview with a Hitman,False,False,1,1
+The Hangover Part II,False,True,1,1
+Charlie and the Chocolate Factory,True,False,1,0
+Letters to Juliet,True,True,1,0
+Star Trek: First Contact,True,False,1,0
+Himizu,True,False,1,0
+Taxi,True,True,1,0
+Vicky Cristina Barcelona,True,True,1,0
+Love Exposure,True,False,1,0
+Jimmy's Hall,False,False,1,1
+Jersey Girl,False,True,1,1
+Die Nibelungen: Kriemhild's Revenge,False,False,1,1
+Ali: Fear Eats the Soul,True,True,1,0
+Mamma Mia!,True,True,1,0
+Office,True,True,1,0
+Stake Land,False,False,1,1
+The Blair Witch Project,True,True,1,0
+Let's Make Love,False,True,1,1
+Material Girls,True,True,1,0
+Antz,True,False,1,0
+Transfer,True,True,1,0
+Hobson's Choice,True,True,1,0
+Dersu Uzala,False,False,1,1
+Always Shine,True,True,1,0
+Quinceañera,True,True,1,0
+Branded to Kill,False,False,1,1
+Starship Troopers,True,False,1,0
+52 Tuesdays,True,True,1,0
+Sunshine Cleaning,True,True,1,0
+The Throne,True,False,1,0
+Lynch,False,True,1,1
+Soldier's Girl,True,False,1,0
+Dollybirds,False,True,1,1
+Beyond the Hills,True,True,1,0
+One Flew Over the Cuckoo's Nest,False,True,1,1
+L'Avventura,True,True,1,0
+Mannequin,False,True,1,1
+Gladiator,False,False,1,1
+The Secret of NIMH,True,True,1,0
+The Big Blue,False,False,1,1
+What's in a Name,True,True,1,0
+Giorgino,True,True,1,0
+The Glass Slipper,True,True,1,0
+Fast & Furious,False,False,1,1
+Le Divorce,True,True,1,0
+Your Name.,True,True,1,0
+Moscow Does Not Believe in Tears,True,True,1,0
+Barbie as Rapunzel,False,True,1,1
+Mercury Rising,False,False,1,1
+Sisters,True,True,1,0
+The Story of Adele H,True,False,1,0
+42,False,True,1,1
+Hour of the Star,True,True,1,0
+Paa,False,True,1,1
+Michael Collins,False,True,1,1
+Bad Boys II,False,False,1,1
+Short Cuts,True,True,1,0
+Defending Your Life,True,True,1,0
+Seven Psychopaths,False,False,1,1
+Fight Club,False,True,1,1
+Halloweentown,True,False,1,0
+A Thousand Words,False,True,1,1
+Capitalism: A Love Story,False,True,1,1
+When Night Is Falling,True,True,1,0
+The Second Mother,True,True,1,0
+Ms .45,True,False,1,0
+Extracted,False,True,1,1
+Misery,False,True,1,1
+Born in Flames,True,True,1,0
+Revolutionary Girl Utena: The Movie,True,False,1,0
+Mutafukaz,False,True,1,1
+Before the Devil Knows You're Dead,False,False,1,1
+Filth,False,False,1,1
+Girl Most Likely,True,True,1,0
+Monster High: 13 Wishes,False,True,1,1
+Rob Roy,False,False,1,1
+San Andreas,True,False,1,0
+War Machine,False,False,1,1
+Kung Fu Hustle,False,False,1,1
+The Cry of the Owl,False,True,1,1
+White House Down,False,False,1,1
+Manny & Lo,True,True,1,0
+Adore,True,True,1,0
+Rent,True,True,1,0
+Without a Paddle,True,False,1,0
+The Purge,True,True,1,0
+Zazie dans le métro,True,True,1,0
+Dreamgirls,True,True,1,0
+The Count of Monte Cristo,False,False,1,1
+From Beyond,True,True,1,0
+Dracula's Daughter,True,True,1,0
+Nim's Island,True,False,1,0
+Juarez,False,False,1,1
+Welcome to the Punch,False,False,1,1
+Captain Fantastic,True,False,1,0
+Once Upon a Time in the West,False,False,1,1
+Justice League vs. Teen Titans,True,False,1,0
+Lone Wolf and Cub: Baby Cart at the River Styx,False,False,1,1
+In the Electric Mist,False,False,1,1
+The Wages of Fear,False,False,1,1
+I Love You to Death,True,False,1,0
+Hick,True,True,1,0
+Crank,False,False,1,1
+The Wrecking Crew,True,False,1,0
+The Party 2,True,True,1,0
+September,True,True,1,0
+Summer Magic,True,True,1,0
+The Gift,True,True,1,0
+Fireworks,False,False,1,1
+Failure to Launch,False,True,1,1
+Paradise Now,False,False,1,1
+Dodge City,False,False,1,1
+Nothing Personal,True,True,1,0
+Saved!,True,True,1,0
+The Dirty Dozen,False,False,1,1
+Days of Heaven,True,True,1,0
+The Science of Sleep,True,True,1,0
+Banana Joe,False,False,1,1
+Kes,False,True,1,1
+The Matrix Revolutions,True,False,1,0
+The Net,True,False,1,0
+Loving,True,True,1,0
+Camino,True,True,1,0
+Kissing Jessica Stein,True,True,1,0
+Eve's Bayou,True,True,1,0
+Hannah Montana: The Movie,False,True,1,1
+Exit Through the Gift Shop,False,True,1,1
+Zoolander,True,True,1,0
+5 Days of War,False,False,1,1
+Angels' Brigade,True,False,1,0
+The Untouchables,False,False,1,1
+Freddy Got Fingered,False,True,1,1
+Europa,False,True,1,1
+The Angels' Share,False,True,1,1
+L'aventure c'est l'aventure,False,False,1,1
+In the Company of Men,False,True,1,1
+Autumn Sonata,True,True,1,0
+Resident Evil: Afterlife,True,False,1,0
+Beyond Silence,True,True,1,0
+Mindhunters,False,False,1,1
+Radio Days,False,True,1,1
+"You, Me and Dupree",False,True,1,1
+Running on Empty,False,True,1,1
+The Lion King 2: Simba's Pride,True,False,1,0
+Fast Times at Ridgemont High,False,True,1,1
+Dead Hooker in a Trunk,True,True,1,0
+Iron Sky: The Coming Race,True,False,1,0
+The Jungle Book,False,False,1,1
+Forrest Gump,False,True,1,1
+Grandma's Reading Glass,False,True,1,1
+Krampus,True,True,1,0
+Star Trek,True,False,1,0
+Airheads,False,False,1,1
+"Sherlock, Jr.",False,True,1,1
+Pulse,True,True,1,0
+Batman: Year One,True,False,1,0
+The Thing from Another World,False,True,1,1
+Uptown Girls,True,True,1,0
+Free Fall,False,True,1,1
+Camille Claudel 1915,True,True,1,0
+Shock Corridor,False,True,1,1
+Clue,True,False,1,0
+My Skinny Sister,True,True,1,0
+Seven Samurai,False,False,1,1
+Pokémon: The Rise of Darkrai,True,False,1,0
+The Terrace,True,True,1,0
+The Best Years of Our Lives,False,False,1,1
+Tremors 4: The Legend Begins,True,False,1,0
+Full Metal Jacket,False,False,1,1
+Alice,True,True,1,0
+War Horse,False,False,1,1
+Sweet and Lowdown,False,True,1,1
+But I'm a Cheerleader,True,True,1,0
+Star Trek Beyond,False,False,1,1
+Precious,True,True,1,0
+The End of the Tour,False,True,1,1
+The Summer of Sangaile,True,True,1,0
+The Beach,False,False,1,1
+Police Academy 3: Back in Training,False,False,1,1
+Planetarium,True,True,1,0
+SpaceCamp,True,False,1,0
+Heartless,False,True,1,1
+Just Wright,True,True,1,0
+No Reservations,True,True,1,0
+Tully,False,True,1,1
+Savage Beach,True,False,1,0
+Killing Daddy,True,False,1,0
+Next,False,False,1,1
+Evil Dead II,True,True,1,0
+The Devil Wears Prada,True,True,1,0
+The Next Three Days,True,False,1,0
+H.,False,True,1,1
+Lion's Den,True,True,1,0
+Red Cliff,False,False,1,1
+Push,True,False,1,0
+Man on a Ledge,False,False,1,1
+Sweet Virginia,True,False,1,0
+Freddie as F.R.O.7.,False,False,1,1
+The Fifth Seal,False,False,1,1
+Lincoln,True,False,1,0
+Bride of Chucky,False,True,1,1
+The Bonfire of the Vanities,False,True,1,1
+The Quiet,True,True,1,0
+A Late Quartet,True,True,1,0
+The Lion King 1½,False,True,1,1
+Clifford,True,True,1,0
+Happily Ever After,True,True,1,0
+The Three Caballeros,False,True,1,1
+Ghostbusters,True,False,1,0
+Freaky Friday,True,True,1,0
+Minority Report,False,False,1,1
+Astérix and Obélix: God Save Britannia,False,False,1,1
+The Triplets of Belleville,True,False,1,0
+Auntie Mame,True,True,1,0
+The Waterboy,False,True,1,1
+Chico & Rita,False,True,1,1
+A Walk on the Moon,True,True,1,0
+Monster,True,False,1,0
+The Road,False,False,1,1
+Beverly Hills Chihuahua,True,False,1,0
+The Mummy Returns,True,False,1,0
+Command Decision,False,False,1,1
+12:08 East of Bucharest,False,True,1,1
+Pink Floyd: The Wall,False,True,1,1
+Over Her Dead Body,True,True,1,0
+Accident,False,False,1,1
+Bad Boy Bubby,False,False,1,1
+The World's End,False,False,1,1
+Wilbur Wants to Kill Himself,True,True,1,0
+600 Miles,False,True,1,1
+A Bronx Tale,False,False,1,1
+Berserk,True,True,1,0
+Chloe,True,True,1,0
+Saving Face,True,False,1,0
+Terror Firmer,True,True,1,0
+Only God Forgives,True,False,1,0
+Black Water,True,False,1,0
+Please Give,True,True,1,0
+Escape from L.A.,False,False,1,1
+Thir13en Ghosts,False,True,1,1
+Disturbia,True,True,1,0
+The Wedding Date,True,True,1,0
+My Life as a Zucchini,True,True,1,0
+La Parisienne,False,True,1,1
+A Woman Under the Influence,True,True,1,0
+The Railrodder,False,True,1,1
+Sliding Doors,True,True,1,0
+Criminal Justice,True,True,1,0
+Shutter Island,False,True,1,1
+Marketa Lazarová,False,False,1,1
+Dagon,True,True,1,0
+Numb,False,True,1,1
+Girls Just Want to Have Fun,True,True,1,0
+Killer Elite,False,False,1,1
+The Conformist,True,True,1,0
+The Million Dollar Duck,False,True,1,1
+The Girl with the Dragon Tattoo,True,False,1,0
+Patch Adams,True,True,1,0
+Body Bags,False,True,1,1
+Dave,True,True,1,0
+Indiana Jones and the Kingdom of the Crystal Skull,False,False,1,1
+A Bucket of Blood,False,True,1,1
+Sunset Song,True,True,1,0
+Keith,True,True,1,0
+Dreamchild,True,True,1,0
+Under the Same Moon,True,True,1,0
+X2,True,False,1,0
+School for Scoundrels,False,True,1,1
+Advise & Consent,True,True,1,0
+Colonia,True,False,1,0
+Barbie: The Pearl Princess,True,True,1,0
+The Fog,True,True,1,0
+Female,True,True,1,0
+Nick of Time,True,False,1,0
+San Francisco,False,True,1,1
+Aloft,True,True,1,0
+Ogres,True,True,1,0
+Life Stinks,False,True,1,1
+The Ref,True,True,1,0
+Fatal Instinct,True,True,1,0
+Orpheus,False,True,1,1
+They Came Back,True,True,1,0
+Swing Kids,False,True,1,1
+Superman Returns,False,False,1,1
+The Conjuring 2,True,True,1,0
+Mary and Martha,True,True,1,0
+Out of the Furnace,False,False,1,1
+The Boondock Saints II: All Saints Day,False,False,1,1
+"To Wong Foo, Thanks for Everything! Julie Newmar",True,True,1,0
+Stage Door,True,True,1,0
+Strange Magic,True,True,1,0
+Voices of a Distant Star,False,True,1,1
+The Day After Tomorrow,True,False,1,0
+Tremors,True,False,1,0
+Being Flynn,False,True,1,1
+The Time Traveler's Wife,True,True,1,0
+Pinocchio,False,True,1,1
+Hurricane Bianca,True,True,1,0
+"Silent Night, Deadly Night",True,True,1,0
+Man of Tai Chi,True,False,1,0
+The Set-Up,False,False,1,1
+The Young Victoria,True,True,1,0
+The Amazing Spider-Man 2,False,False,1,1
+Reincarnation,True,True,1,0
+Ghost Dog: The Way of the Samurai,False,False,1,1
+A Dog's Purpose,False,True,1,1
+Free Willy 3: The Rescue,False,False,1,1
+Irrational Man,False,True,1,1
+M,True,False,1,0
+Harbinger Down,True,True,1,0
+W.E.,True,True,1,0
+Joan of Arc,True,False,1,0
+Let Us Prey,True,True,1,0
+G.I. Joe: Retaliation,True,False,1,0
+Escape to Victory,False,False,1,1
+10 Rillington Place,False,False,1,1
+Frost/Nixon,False,False,1,1
+Octopussy,False,False,1,1
+Around the World in Eighty Days,False,False,1,1
+The Birdcage,False,True,1,1
+Desperado,False,False,1,1
+10 Things I Hate About You,True,True,1,0
+Baggage Claim,True,True,1,0
+The Impossible Voyage,False,False,1,1
+Blue Hawaii,True,True,1,0
+Perfect Blue,True,True,1,0
+Mr. Nobody,False,True,1,1
+Go for Sisters,True,False,1,0
+Saludos Amigos,False,True,1,1
+An Unexpected Love,True,True,1,0
+"Batman: The Dark Knight Returns, Part 1",True,False,1,0
+The Crying Game,False,False,1,1
+Reclaim Your Brain,False,True,1,1
+Blue Is the Warmest Color,True,True,1,0
+Main Street,True,True,1,0
+Ordinary People,False,True,1,1
+On the Waterfront,False,False,1,1
+Revenge of the Bridesmaids,True,True,1,0
+The Lord of the Rings: The Return of the King,False,False,1,1
+Insidious: Chapter 2,False,True,1,1
+Safety Not Guaranteed,True,True,1,0
+Cry_Wolf,True,True,1,0
+Casi Divas,True,True,1,0
+Now and Then,True,True,1,0
+Much Ado About Nothing,True,True,1,0
+City of Men,False,True,1,1
+Two Moon Junction,True,True,1,0
+The Marriage of Maria Braun,True,False,1,0
+The Boy in the Striped Pyjamas,True,False,1,0
+Of Mice and Men,False,True,1,1
+They Call Me Jeeg Robot,False,False,1,1
+Yi Yi,True,True,1,0
+Frau Müller muss weg!,True,True,1,0
+Mediterraneo,False,False,1,1
+Annie,True,True,1,0
+The Chronicles of Riddick,False,False,1,1
+The Mothman Prophecies,False,True,1,1
+Bob Roberts,False,True,1,1
+Little Miss Sunshine,True,True,1,0
+The Fan,False,True,1,1
+Behavior,True,True,1,0
+Under the Cherry Moon,True,True,1,0
+Dancer in the Dark,True,False,1,0
+As One,True,True,1,0
+Monkey Business,False,True,1,1
+The Iron Rose,False,True,1,1
+"Good Night, and Good Luck.",False,False,1,1
+Spa Night,True,True,1,0
+Price Check,True,True,1,0
+You Only Live Twice,False,False,1,1
+Häxan,True,True,1,0
+People Like Us,True,True,1,0
+Party Girl,True,True,1,0
+Impostor,False,False,1,1
+Vegas Vacation,True,True,1,0
+Police Academy 5: Assignment Miami Beach,False,False,1,1
+Kronos,False,True,1,1
+House II: The Second Story,True,True,1,0
+A Little Bit of Heaven,True,True,1,0
+I Don't Feel at Home in This World Anymore,True,False,1,0
+El Dorado,False,False,1,1
+Superman IV: The Quest for Peace,True,False,1,0
+Aliens vs Predator: Requiem,True,False,1,0
+50/50,False,True,1,1
+Petersburg: Only for Love,True,True,1,0
+Pieces of April,True,True,1,0
+Rose Red,True,True,1,0
+I Want to Live!,True,False,1,0
+Cow Belles,True,True,1,0
+Godzilla 1985,False,False,1,1
+Valkyrie,False,False,1,1
+Leon: The Professional,True,False,1,0
+Thirteen Days,False,True,1,1
+Sky High,True,False,1,0
+Little Big Man,False,False,1,1
+The Perfect Score,True,False,1,0
+Valentine's Day,True,True,1,0
+Erased,False,False,1,1
+Primrose Path,True,True,1,0
+Hush,True,True,1,0
+Grace Unplugged,True,True,1,0
+Annie,True,True,1,0
+Confidentially Yours,False,False,1,1
+Heartbeats,False,True,1,1
+Can't Buy Me Love,True,True,1,0
+Trading Mom,True,True,1,0
+The Miracle Worker,True,True,1,0
+La Dolce Vita,False,True,1,1
+And Then Came Lola,True,True,1,0
+Them!,False,True,1,1
+You're Sleeping Nicole,True,True,1,0
+Le Cercle Rouge,False,False,1,1
+Red Dragon,False,False,1,1
+The Prince of Egypt,True,False,1,0
+Clerks II,True,True,1,0
+Winter's Tale,True,True,1,0
+Jay and Silent Bob Strike Back,True,True,1,0
+Headhunters,False,False,1,1
+Michael,False,True,1,1
+The Importance of Being Earnest,True,False,1,0
+Inherent Vice,False,False,1,1
+An Education,True,True,1,0
+Honey,False,True,1,1
+Dead Silence,False,True,1,1
+I Could Never Be Your Woman,True,True,1,0
+Vera Drake,True,False,1,0
+Mad About Mambo,False,True,1,1
+Evolution,False,True,1,1
+Smoke Signals,True,True,1,0
+Life or Something Like It,True,True,1,0
+District B13,False,False,1,1
+Marie Antoinette,True,False,1,0
+Hard Boiled,False,False,1,1
+Braveheart,False,False,1,1
+Chronicle,False,True,1,1
+Hard Rain,False,True,1,1
+Bhaji on the Beach,True,True,1,0
+El Norte,True,False,1,0
+Coneheads,True,True,1,0
+The Longest Ride,True,True,1,0
+Leaving Las Vegas,False,True,1,1
+The Tuxedo,False,False,1,1
+Sonic The Hedgehog: The Movie,False,False,1,1
+Nerve,True,False,1,0
+Trumbo,True,True,1,0
+The Woman,True,True,1,0
+Dredd,True,False,1,0
+FernGully: The Last Rainforest,True,True,1,0
+Jumper,False,False,1,1
+Ivanhoe,False,False,1,1
+The Secret Life of Bees,True,False,1,0
+The Straight Story,True,True,1,0
+Vampyros Lesbos,True,True,1,0
+Grey Gardens,True,True,1,0
+The First Wives Club,True,True,1,0
+Mr. Deeds,False,True,1,1
+Arranged,True,False,1,0
+Trading Places,False,True,1,1
+Lakeview Terrace,True,False,1,0
+Barbie and the Magic of Pegasus 3-D,True,True,1,0
+Isle of the Dead,True,True,1,0
+Frozen,False,True,1,1
+Yeh Jawaani Hai Deewani,True,True,1,0
+Maudie,True,False,1,0
+The Good Doctor,True,True,1,0
+Eight Below,False,False,1,1
+Home on the Range,True,True,1,0
+Point Break,False,False,1,1
+Elizabethtown,True,True,1,0
+The Mattei Affair,False,False,1,1
+The Switch,False,True,1,1
+The Magnificent Seven,False,False,1,1
+The 4th Floor,True,True,1,0
+The Cranes Are Flying,True,False,1,0
+The Legend of Tarzan,False,False,1,1
+Cradle 2 the Grave,False,False,1,1
+Radio Rebel,True,True,1,0
+The Hot Chick,True,True,1,0
+Blade: Trinity,True,False,1,0
+The Night Heaven Fell,True,False,1,0
+Straight Outta Compton,False,True,1,1
+New Dragon Gate Inn,True,False,1,0
+The Breed,False,False,1,1
+Top Five,True,True,1,0
+Quarantine 2: Terminal,True,True,1,0
+The Night of the Hunter,True,False,1,0
+The Living Playing Cards,False,True,1,1
+Up in the Air,False,True,1,1
+Throne of Blood,False,False,1,1
+Dawn of the Planet of the Apes,False,False,1,1
+Perrier’s Bounty,False,False,1,1
+No One Killed Jessica,True,False,1,0
+The Man from Beyond,False,False,1,1
+A Fish Called Wanda,True,False,1,0
+Hitchcock,False,True,1,1
+Airport 1975,True,False,1,0
+Stella Dallas,True,True,1,0
+Big Girls Don't Cry,True,True,1,0
+The Most Dangerous Game,False,False,1,1
+Life As We Know It,True,True,1,0
+A Warm December,True,True,1,0
+The Butcher,False,True,1,1
+As Tears Go By,False,False,1,1
+Advantageous,True,True,1,0
+The Fundamentals of Caring,True,True,1,0
+Manos: The Hands of Fate,True,True,1,0
+Scarface,False,False,1,1
+Standing Ovation,True,True,1,0
+Harry Potter and the Chamber of Secrets,True,False,1,0
+Skylab,True,True,1,0
+Death Defying Acts,True,True,1,0
+Paper Towns,False,True,1,1
+Raiders of the Lost Ark,True,False,1,0
+Frozen River,True,True,1,0
+In the Line of Fire,False,False,1,1
+Friday After Next,False,True,1,1
+The Matador,False,False,1,1
+The Dam Busters,False,False,1,1
+Wild Oranges,False,True,1,1
+Madagascar,False,True,1,1
+Blame It on Rio,True,True,1,0
+The Belko Experiment,True,False,1,0
+Hell Comes to Frogtown,True,False,1,0
+The Shocking Miss Pilgrim,True,True,1,0
+Viva,True,True,1,0
+"They Shoot Horses, Don't They?",False,True,1,1
+The Eagle,False,False,1,1
+Other People's Money,True,True,1,0
+From Prada to Nada,True,True,1,0
+Shirley Valentine,True,True,1,0
+The Expendables 3,False,False,1,1
+The Book Thief,True,True,1,0
+Cypher,False,True,1,1
+Going the Distance,True,True,1,0
+Pirates of the Caribbean: At World's End,True,False,1,0
+The Joy Luck Club,True,True,1,0
+Roman Holiday,True,True,1,0
+The Legend of Hell House,True,True,1,0
+Police Academy,True,False,1,0
+The Bridges of Madison County,True,True,1,0
+Mustang,True,True,1,0
+Lost Highway,False,True,1,1
+Get a Clue,True,True,1,0
+The Tourist,False,False,1,1
+Boxing Helena,False,True,1,1
+The Wave,True,False,1,0
+Saboteur,False,False,1,1
+Grand Hotel,True,True,1,0
+New Waterford Girl,True,True,1,0
+Other People,True,True,1,0
+I Bury the Living,False,True,1,1
+Legend of the Red Dragon,True,False,1,0
+Tinker Tailor Soldier Spy,False,True,1,1
+Oranges and Sunshine,True,True,1,0
+Desperate Living,True,False,1,0
+Boys on the Side,True,True,1,0
+Horns,True,True,1,0
+The Condemned,False,False,1,1
+"Ladies and Gentlemen, the Fabulous Stains",True,True,1,0
+We're the Millers,True,False,1,0
+Buffy the Vampire Slayer,True,False,1,0
+The Magnificent Seven,False,False,1,1
+The Graduate,False,True,1,1
+Iron Eagle,False,False,1,1
+The Losers,False,False,1,1
+Housekeeping,True,True,1,0
+A Night at the Opera,False,True,1,1
+El Topo,False,False,1,1
+The Number 23,False,True,1,1
+Zodiac,False,False,1,1
+Interview with the Vampire,False,True,1,1
+Shoot 'Em Up,False,False,1,1
+Red Like the Sky,False,False,1,1
+Biutiful,False,True,1,1
+Dirty 30,True,True,1,0
+Revolutionary Road,True,True,1,0
+The Shawshank Redemption,False,False,1,1
+Lovesong,True,True,1,0
+Sonatine,False,False,1,1
+Stella Maris,True,True,1,0
+The Green Butchers,False,True,1,1
+Let It Ride,False,True,1,1
+Win Win,True,True,1,0
+SAGA: Curse of the Shadow,False,False,1,1
+On the Town,True,True,1,0
+Getting Any?,False,True,1,1
+Alien Tornado,True,False,1,0
+One Man Up,False,True,1,1
+Undead,True,False,1,0
+Knowing,False,False,1,1
+Shag,True,True,1,0
+Female Trouble,True,False,1,0
+Eagle vs Shark,True,True,1,0
+Beethoven,True,True,1,0
+Leap Year,True,True,1,0
+Kiss the Girls,False,False,1,1
+The Burning Plain,True,True,1,0
+Spotlight,False,False,1,1
+Read My Lips,True,False,1,0
+The Butcher's Wife,True,True,1,0
+Le Samouraï,False,False,1,1
+Addams Family Values,True,True,1,0
+Circle of Friends,True,True,1,0
+An Affair to Remember,False,True,1,1
+Buffalo Running,False,True,1,1
+After Hours,False,True,1,1
+Burning Sands,False,True,1,1
+Tammy and the Bachelor,True,True,1,0
+Friday the 13th Part VI: Jason Lives,True,True,1,0
+Final Destination,False,True,1,1
+The Star Wars Holiday Special,False,False,1,1
+Mean Girls 2,True,True,1,0
+Pieces,False,True,1,1
+Gantz,False,False,1,1
+The Secret,True,True,1,0
+Death Wish,True,False,1,0
+Cloudy with a Chance of Meatballs,False,True,1,1
+Steam,True,True,1,0
+Everything Must Go,False,True,1,1
+Eega,False,True,1,1
+Hideaway (Le refuge),True,True,1,0
+Hannah and Her Sisters,True,True,1,0
+T2 Trainspotting,True,False,1,0
+House of Games,True,False,1,0
+Tinker Bell and the Lost Treasure,True,False,1,0
+Polisse,True,True,1,0
+Jack the Giant Slayer,False,False,1,1
+Reaching for the Moon,True,True,1,0
+Cursed,True,True,1,0
+Donnie Darko,True,True,1,0
+The Meaning of Life,False,True,1,1
+21 Jump Street,False,False,1,1
+Trophy Wife,True,True,1,0
+Rings,False,True,1,1
+Journey to Italy,True,True,1,0
+Tremors 3: Back to Perfection,True,False,1,0
+Henry V,True,False,1,0
+The Great Ziegfeld,True,True,1,0
+The Phoenix Project,False,True,1,1
+She,False,False,1,1
+The Marine,True,False,1,0
+Odd Thomas,True,True,1,0
+The Mummy,False,False,1,1
+Ip Man 3,False,False,1,1
+The Terminal,False,True,1,1
+The Tall Man,True,True,1,0
+Parallels,True,False,1,0
+The Covenant,True,False,1,0
+Batman Unlimited: Animal Instincts,False,False,1,1
+Jamie and Jessie Are Not Together,True,True,1,0
+Zulu,False,False,1,1
+The Inbetweeners 2,False,True,1,1
+The Dark House,False,False,1,1
+Higher Ground,True,True,1,0
+Conversations with My Gardener,False,True,1,1
+Blood Diamond,False,False,1,1
+The Ant Bully,False,False,1,1
+Wild Orchid,True,True,1,0
+Tamara Drewe,True,True,1,0
+A Marine Story,True,True,1,0
+Dirty Rotten Scoundrels,False,False,1,1
+Phoenix,True,True,1,0
+Free Willy 2 - The Adventure Home,True,False,1,0
+The Longest Day,False,False,1,1
+Star Wars: Episode II - Attack of the Clones,True,False,1,0
+The Nameless,True,True,1,0
+The Bostonians,True,True,1,0
+Charlie's Angels: Full Throttle,True,False,1,0
+Ju-on: The Curse,True,True,1,0
+Evangelion: 2.0 You Can (Not) Advance,True,False,1,0
+Band Aid,True,True,1,0
+Middle School: The Worst Years of My Life,True,True,1,0
+The Best Exotic Marigold Hotel,True,True,1,0
+Moonstruck,True,True,1,0
+Wayne's World,False,True,1,1
+Se7en,False,False,1,1
+She Done Him Wrong,False,True,1,1
+The Legend of Barney Thomson,True,True,1,0
+Takers,False,False,1,1
+The Age of Innocence,True,True,1,0
+Resident Evil: Retribution,True,False,1,0
+Ivan's Childhood,False,False,1,1
+Fighting,False,False,1,1
+Arachnoquake,True,True,1,0
+The Day the Earth Stood Still,True,True,1,0
+An American in Rome,False,True,1,1
+American Pie,False,True,1,1
+The Pianist,False,False,1,1
+Final Destination 5,False,True,1,1
+Barbie in A Mermaid Tale,True,True,1,0
+Batman: Mask of the Phantasm,False,False,1,1
+Princess Mononoke,True,False,1,0
+Dirty Grandpa,False,True,1,1
+Don't Breathe,True,False,1,0
+It Takes Two,False,True,1,1
+Finsterworld,False,True,1,1
++1,True,True,1,0
+Tea with Mussolini,True,False,1,0
+A Royal Night Out,True,True,1,0
+Gregory's Girl,True,True,1,0
+Suicide Squad,True,False,1,0
+GoodFellas,True,False,1,0
+Electrick Children,True,True,1,0
+Victor/Victoria,True,True,1,0
+Not Fade Away,True,True,1,0
+Starbuck,False,True,1,1
+The Prisoner,False,True,1,1
+Any Which Way You Can,False,False,1,1
+The Best Offer,False,False,1,1
+Foxcatcher,False,True,1,1
+Yossi & Jagger,False,False,1,1
+10 Cloverfield Lane,True,True,1,0
+Kon-Tiki,False,False,1,1
+A Guide To Recognizing Your Saints,False,False,1,1
+Motorama,False,True,1,1
+Dear White People,True,True,1,0
+The Girl on the Train,True,False,1,0
+Girl Walks Into a Bar,True,True,1,0
+Four Brothers,False,False,1,1
+The Hunter,True,False,1,0
+Mission: Impossible - Ghost Protocol,False,False,1,1
+I Am a Fugitive from a Chain Gang,False,False,1,1
+Sleeping Beauty,True,True,1,0
+8½,True,True,1,0
+Kingdom of Heaven,False,False,1,1
+Alien³,False,False,1,1
+The Curse of the Werewolf,True,True,1,0
+The 33,True,False,1,0
+God Help the Girl,True,True,1,0
+Dinosaur,True,True,1,0
+Gothika,True,True,1,0
+Resident Evil: The Final Chapter,True,False,1,0
+12 Angry Men,False,True,1,1
+Red Riding Hood,True,True,1,0
+Unleashed,False,False,1,1
+Howling II: Stirba - Werewolf Bitch,False,True,1,1
+Van Helsing,True,False,1,0
+The Sisterhood of the Traveling Pants 2,True,False,1,0
+Escape from Segovia,False,False,1,1
+Metropolis,False,True,1,1
+Rubin and Ed,False,True,1,1
+Cosmopolis,False,True,1,1
+Hamlet 2,True,True,1,0
+A Doll's House,True,True,1,0
+The Vagabond,False,True,1,1
+2 Days in the Valley,True,False,1,0
+Feds,True,False,1,0
+Hit & Run,True,False,1,0
+The Parent Trap,True,True,1,0
+Greetings from Tim Buckley,False,True,1,1
+Wuthering Heights,False,False,1,1
+Windtalkers,False,False,1,1
+Batman Begins,False,False,1,1
+Blacksmith Scene,False,True,1,1
+Sabrina the Teenage Witch,True,True,1,0
+Albino Farm,True,True,1,0
+Taken 3,False,False,1,1
+Gandhi,False,False,1,1
+Barefoot in the Park,True,True,1,0
+Dark Angel,False,False,1,1
+Dracula: Pages from a Virgin's Diary,False,True,1,1
+Kahaani,True,True,1,0
+Chinatown,False,False,1,1
+Would You Rather,True,True,1,0
+I Sell The Dead,False,True,1,1
+McLintock!,True,False,1,0
+Torment,False,True,1,1
+Fast Girls,True,True,1,0
+Stuart Little,False,True,1,1
+Paths of Glory,False,False,1,1
+Absentia,True,True,1,0
+A Chump at Oxford,False,True,1,1
+Out of the Past,False,True,1,1
+Lady Sings the Blues,True,True,1,0
+Zatoichi,False,False,1,1
+The Vampire Bat,True,True,1,0
+Mädchen in Uniform,True,True,1,0
+Cinema Paradiso,False,True,1,1
+Stagecoach,True,False,1,0
+The Man from Laramie,False,False,1,1
+The Celluloid Closet,True,False,1,0
+Shallow Hal,True,True,1,0
+Avatar 2,True,False,1,0
+Saving Private Ryan,False,False,1,1
+Hope Floats,True,True,1,0
+Room in Rome,True,True,1,0
+Tinker Bell and the Pirate Fairy,True,True,1,0
+The Host,True,False,1,0
+The Expendables 2,True,False,1,0
+Mississippi Mermaid,True,False,1,0
+Romeo + Juliet,True,True,1,0
+The Secret of My Success,False,True,1,1
+They Call Me Trinity,False,False,1,1
+Melody Time,False,True,1,1
+Serial Mom,True,False,1,0
+The Sky Crawlers,True,False,1,0
+The Punk Singer,True,True,1,0
+Seven Years in Tibet,False,False,1,1
+Pink Flamingos,True,False,1,0
+The Navigator,False,False,1,1
+Finding Dory,True,False,1,0
+Tru Confessions,True,True,1,0
+Late Chrysanthemums,True,True,1,0
+Good News,False,True,1,1
+Barbie: Fairytopia,True,True,1,0
+Touchy Feely,True,True,1,0
+Aparajito,True,True,1,0
+Avalanche,False,False,1,1
+The Intouchables,False,True,1,1
+Matango: Attack of the Mushroom People,True,True,1,0
+Love & Air Sex,True,True,1,0
+The Basketball Diaries,False,False,1,1
+Boy Eats Girl,False,True,1,1
+My Girl,True,True,1,0
+Ghostbusters II,False,True,1,1
+Dogma,True,False,1,0
+Tarzan's Magic Fountain,False,False,1,1
+Death and the Maiden,False,True,1,1
+Birdemic: Shock and Terror,True,True,1,0
+I Confess,False,False,1,1
+The Trip,False,True,1,1
+Ghost Rider,False,False,1,1
+The Negotiator,False,False,1,1
+The Awful Truth,True,True,1,0
+New Nightmare,True,True,1,0
+Ice Age: Collision Course,True,False,1,0
+A New Leaf,True,True,1,0
+Star Trek V: The Final Frontier,False,False,1,1
+Original Sin,False,True,1,1
+UMMAH - Unter Freunden,False,True,1,1
+Austin Powers: The Spy Who Shagged Me,False,False,1,1
+Step Up 2: The Streets,True,True,1,0
+Sophie's Choice,True,True,1,0
+Five Easy Pieces,True,True,1,0
+Coherence,True,True,1,0
+"Me, Myself & Irene",False,True,1,1
+Bride of Frankenstein,True,True,1,0
+Enron: The Smartest Guys in the Room,False,True,1,1
+No Way Out,True,False,1,0
+The Hunchback of Notre Dame II,False,False,1,1
+The Adjustment Bureau,True,True,1,0
+The Bourne Identity,False,False,1,1
+Rabbit-Proof Fence,True,False,1,0
+Gremlins,False,True,1,1
+Vampyr,True,True,1,0
+Raising Arizona,True,False,1,0
+Taken,True,False,1,0
+The Giant Mechanical Man,True,True,1,0
+The Lucky Ones,True,False,1,0
+National Velvet,True,True,1,0
+All the Way Boys,False,False,1,1
+Deep Impact,True,False,1,0
+Monsters,False,True,1,1
+The Strange Woman,True,True,1,0
+Critters,False,False,1,1
+Amiche da morire,True,False,1,0
+Home,True,True,1,0
+"Like Sunday, Like Rain",True,True,1,0
+Tallulah,True,True,1,0
+Speedway,True,False,1,0
+House at the End of the Street,True,True,1,0
+Experimenter,False,False,1,1
+The Taking of Pelham 1 2 3,False,False,1,1
+Six Days Seven Nights,False,False,1,1
+I Am Number Four,False,False,1,1
+Just One of the Guys,True,True,1,0
+Dabangg 2,False,False,1,1
+Scary Movie,True,True,1,0
+Cecil B. Demented,True,False,1,0
+The Revenant,False,False,1,1
+The End,True,True,1,0
+Orgazmo,False,True,1,1
+Amarcord,False,True,1,1
+The Borrowers,True,False,1,0
+The Maltese Falcon,False,False,1,1
+Queen Christina,True,False,1,0
+Hellbound: Hellraiser II,False,True,1,1
+How to Murder Your Wife,False,True,1,1
+Santa Who?,False,True,1,1
+44 Inch Chest,False,False,1,1
+War for the Planet of the Apes,False,False,1,1
+Broken Embraces,True,True,1,0
+Raise the Red Lantern,True,True,1,0
+Untamed Heart,True,True,1,0
+Lust for Love,True,True,1,0
+Blessed,True,True,1,0
+Love Songs,True,True,1,0
+Barbie: Princess Charm School,True,True,1,0
+High Fidelity,False,True,1,1
+Desperately Seeking Susan,True,True,1,0
+Two Sisters From Boston,True,True,1,0
+A Star Is Born,False,True,1,1
+Bedknobs and Broomsticks,True,False,1,0
+Martha Marcy May Marlene,True,True,1,0
+Detective,False,False,1,1
+Men of War,False,False,1,1
+Howl,False,True,1,1
+The Fish Child,True,True,1,0
+I Spit on Your Grave,False,True,1,1
+TMNT,False,False,1,1
+The Smurfs 2,True,True,1,0
+Finding Bliss,True,True,1,0
+8 Mile,False,True,1,1
+Dressed to Kill,True,False,1,0
+Poltergeist,True,True,1,0
+The Dreamlife of Angels,True,True,1,0
+La La Land,True,True,1,0
+Save the Last Dance,True,True,1,0
+The Magic of Ordinary Days,True,True,1,0
+American Beauty,True,True,1,0
+It's a Gift,True,True,1,0
+Hope and Glory,True,False,1,0
+Greenberg,False,True,1,1
+Death at a Funeral,True,True,1,0
+The Avengers,False,False,1,1
+The Fate of the Furious,True,False,1,0
+My Man Godfrey,False,True,1,1
+Wish Upon,True,True,1,0
+Crashing,False,True,1,1
+A Separation,True,True,1,0
+Magnolia,True,True,1,0
+Dear Wendy,False,False,1,1
+The Evil Dead,False,True,1,1
+FernGully 2: The Magical Rescue,True,True,1,0
+Ocean's Eleven,False,False,1,1
+The Lorax,False,True,1,1
+Deep Cover,False,False,1,1
+Walking Vengeance,True,False,1,0
+Import/Export,True,True,1,0
+Shelter,True,True,1,0
+Howards End,True,True,1,0
+The Mists of Avalon,True,True,1,0
+Tangled,True,True,1,0
+Titli,False,False,1,1
+The Jane Austen Book Club,True,True,1,0
+Ender's Game,False,False,1,1
+The Jolson Story,False,True,1,1
+Rodan,False,True,1,1
+Titan A.E.,True,False,1,0
+Planet 51,False,False,1,1
+The Returned,True,True,1,0
+The Wolf Man,False,True,1,1
+Harry Potter and the Order of the Phoenix,True,False,1,0
+Pocahontas II: Journey to a New World,True,False,1,0
+The Mother,True,True,1,0
+Hell,True,True,1,0
+Summer Things,True,True,1,0
+Underworld: Rise of the Lycans,False,False,1,1
+Child's Pose,True,True,1,0
+Diva,False,False,1,1
+On Tour,True,True,1,0
+Kids Return,True,True,1,0
+Dodes'ka-den,True,True,1,0
+The Spy Who Loved Me,False,False,1,1
+Beverly Hills Cop III,False,False,1,1
+Kidulthood,True,True,1,0
+Green Street Hooligans,False,False,1,1
+Pretty Baby,False,False,1,1
+Naughty Marietta,True,True,1,0
+The Words,False,True,1,1
+Nightbreed,True,False,1,0
+Hara-Kiri: Death of a Samurai,False,True,1,1
+Šíleně smutná princezna,False,True,1,1
+Ocean's Twelve,False,False,1,1
+Courageous,True,True,1,0
+Blacula,True,True,1,0
+The Hobbit: The Desolation of Smaug,True,False,1,0
+Black Sea,False,False,1,1
+The Misfits,True,False,1,0
+Celebrity,True,True,1,0
+Chain Reaction,False,False,1,1
+The Simpsons Movie,True,True,1,0
+The Transporter,False,False,1,1
+The Double,False,True,1,1
+Newsies,False,True,1,1
+Happy Endings,True,True,1,0
+A Taste of Honey,True,True,1,0
+Matilda,True,True,1,0
+The 400 Blows,False,True,1,1
+Watchmen,True,False,1,0
+In the Loop,True,True,1,0
+"Jeanne Dielman, 23, Quai du Commerce 1080 Bruxelles",True,True,1,0
+Balto III: Wings of Change,True,False,1,0
+The Illusionist,False,True,1,1
+Analyze This,False,False,1,1
+Soapdish,True,True,1,0
+Vacancy,False,True,1,1
+Barbershop: The Next Cut,True,True,1,0
+Batman & Robin,False,False,1,1
+Anatomy of a Murder,False,False,1,1
+WarGames,False,True,1,1
+Mrs. Doubtfire,True,True,1,0
+Unfriended,True,True,1,0
+Lost in Space,True,False,1,0
+I Am Twenty,True,True,1,0
+The Greatest Show on Earth,False,False,1,1
+Waterworld,False,False,1,1
+Half Baked,False,False,1,1
+Battle in Outer Space,False,True,1,1
+Convoy,False,False,1,1
+I Was a Male War Bride,False,False,1,1
+Frankenstein,False,True,1,1
+Earth Girls Are Easy,False,True,1,1
+Essential Killing,False,False,1,1
+Open Your Eyes,False,True,1,1
+The Hudsucker Proxy,False,True,1,1
+The Italian Job,False,False,1,1
+A Perfect Getaway,True,False,1,0
+Ruthless People,True,True,1,0
+Groundhog Day,False,True,1,1
+We Are What We Are,True,True,1,0
+Lucia,True,True,1,0
+Dead Ringer,True,False,1,0
+Bagdad Cafe,True,True,1,0
+My Best Girl,True,True,1,0
+A Happy Event,True,True,1,0
+Hatari!,True,False,1,0
+Sugar & Spice,True,False,1,0
+Hairspray,True,True,1,0
+Southland Tales,True,True,1,0
+Extremis,True,True,1,0
+Your Sister's Sister,True,True,1,0
+Year of the Carnivore,True,True,1,0
+Score: A Hockey Musical,False,True,1,1
+The Hot Flashes,True,True,1,0
+Star Wars: The Force Awakens,True,False,1,0
+The Rabbi's Cat,True,True,1,0
+The Contender,False,True,1,1
+Sixteen Candles,True,True,1,0
+Bronson,False,False,1,1
+The Great White Silence,False,True,1,1
+Logan,True,False,1,0
+Gamera vs. Gyaos,False,False,1,1
+Team America: World Police,False,False,1,1
+Fair Game,True,True,1,0
+Tinker Bell and the Legend of the NeverBeast,True,False,1,0
+The Duellists,False,False,1,1
+The A-Team,False,False,1,1
+The Pirates! In an Adventure with Scientists!,False,False,1,1
+Thoroughly Modern Millie,True,True,1,0
+Carefree,False,True,1,1
+The Whisperer in Darkness,False,True,1,1
+Jaws 2,False,True,1,1
+Lost in Translation,True,True,1,0
+"I, Daniel Blake",True,True,1,0
+Cheap Thrills,False,False,1,1
+Under the Skin,False,True,1,1
+"Sex, Lies, and Videotape",False,True,1,1
+All About My Mother,True,True,1,0
+Family Weekend,True,True,1,0
+City of God,False,False,1,1
+Mortuary,True,True,1,0
+The Wedding Planner,True,True,1,0
+My Sister's Keeper,True,True,1,0
+Les Misérables,True,True,1,0
+The Stepford Wives,True,True,1,0
+The Man Who Fell to Earth,False,True,1,1
+The Truth About Cats & Dogs,True,True,1,0
+The Manchurian Candidate,False,True,1,1
+The Maids,True,True,1,0
+Pink Saris,True,True,1,0
+The Princess Diaries 2: Royal Engagement,True,True,1,0
+The Sorcerer and the White Snake,True,False,1,0
+Rough Night,True,True,1,0
+Rudolph the Red-Nosed Reindeer,False,True,1,1
+Far and Away,True,False,1,0
+Maniac,True,True,1,0
+After Sex,True,True,1,0
+Vanishing Waves,False,True,1,1
+The Enemy Below,False,False,1,1
+Below,False,True,1,1
+Hair,True,False,1,0
+Dark Star,False,True,1,1
+Best Defense,False,False,1,1
+When Animals Dream,False,True,1,1
+Little Children,True,True,1,0
+Werewolves on Wheels,False,False,1,1
+Inherit the Wind,True,False,1,0
+The Hunger,True,True,1,0
+Norma Rae,True,True,1,0
+Restrepo,False,False,1,1
+Sidewalk Stories,False,True,1,1
+The Band of Honest Men,False,True,1,1
+The Devil's Advocate,True,True,1,0
+Thirst,True,True,1,0
+I Am Love,True,True,1,0
+P.S. I Love You,True,True,1,0
+Jellyfish,True,True,1,0
+4.3.2.1,True,False,1,0
+The Hard Corps,True,False,1,0
+Frankie and Johnny,False,True,1,1
+Ego,False,True,1,1
+Scary Godmother: Halloween Spooktakular,True,True,1,0
+Friday the 13th: The Final Chapter,True,True,1,0
+The Cave of the Yellow Dog,True,True,1,0
+Ritual,False,True,1,1
+Unforgiven,True,False,1,0
+Happiness,True,True,1,0
+Home Alone,True,True,1,0
+Chopper Chicks in Zombietown,True,True,1,0
+Make Mine Music,False,True,1,1
+Spy Hard,False,False,1,1
+Flower Drum Song,False,True,1,1
+Me Without You,True,True,1,0
+The Perks of Being a Wallflower,True,True,1,0
+Tickets,False,True,1,1
+State of Emergency,False,True,1,1
+Ed Wood,True,False,1,0
+The Informant!,False,False,1,1
+A Royal Affair,True,False,1,0
+Murmur of the Heart,False,True,1,1
+20 Feet from Stardom,True,True,1,0
+I Know Where I'm Going!,True,True,1,0
+La Femme Nikita,True,False,1,0
+Mr. Vampire,False,False,1,1
+Shortbus,True,True,1,0
+The Jacket,False,True,1,1
+The Hitch-Hiker,False,False,1,1
+The Quiet Earth,False,True,1,1
+North by Northwest,False,True,1,1
+Puccini for Beginners,True,True,1,0
+Taking Woodstock,False,True,1,1
+Heaven Can Wait,True,True,1,0
+Futurama: Bender's Game,False,True,1,1
+Picture Perfect,True,True,1,0
+Indiscreet,True,True,1,0
+Kamome Diner,True,True,1,0
+The Homesman,False,False,1,1
+The Perfect Host,False,False,1,1
+Teenage Mutant Ninja Turtles,False,False,1,1
+The Servant,True,True,1,0
+The God of Cookery,False,True,1,1
+Kindergarten Cop,True,True,1,0
+Terminator 3: Rise of the Machines,True,False,1,0
+Foul Play,True,True,1,0
+Futuresport,False,False,1,1
+The Reef,False,True,1,1
+Séraphine,True,False,1,0
+It Came from Outer Space,False,True,1,1
+Go West,False,False,1,1
+While We're Young,True,True,1,0
+Lone Wolf and Cub: White Heaven in Hell,False,False,1,1
+Eternal Sunshine of the Spotless Mind,False,True,1,1
+The Jungle Book 2,False,False,1,1
+Art School Confidential,True,True,1,0
+War on Everyone,True,True,1,0
+Ask Me Anything,True,True,1,0
+The Lion in Winter,True,False,1,0
+DragonHeart: A New Beginning,False,False,1,1
+Strange Days,True,False,1,0
+Starlet,True,True,1,0
+Casualties of War,False,False,1,1
+Fly Me to the Moon,False,False,1,1
+Sucker Punch,True,False,1,0
+Holes,False,False,1,1
+Sister,False,True,1,1
+The Sound of Music,True,True,1,0
+Harry Potter and the Deathly Hallows: Part 2,True,False,1,0
+Dante 01,True,True,1,0
+American Gangster,False,False,1,1
+I'll See You in My Dreams,True,True,1,0
+Circle,False,True,1,1
+Viva Las Vegas,False,True,1,1
+Twister,True,False,1,0
+DC Showcase: Catwoman,True,False,1,0
+The Legend of Zorro,False,False,1,1
+Evelyn Prentice,True,True,1,0
+Steve Jobs,True,False,1,0
+Barfi,False,True,1,1
+Popstar: Never Stop Never Stopping,False,True,1,1
+Peter Pan,True,False,1,0
+Following,False,False,1,1
+Stoker,True,True,1,0
+Tsar,False,False,1,1
+Struck by Lightning,True,True,1,0
+I Origins,True,True,1,0
+Prince Avalanche,False,True,1,1
+Ingrid Goes West,True,True,1,0
+Monster Pies,False,True,1,1
+To Have and Have Not,True,False,1,0
+Enough Said,True,True,1,0
+Love Lasts Three Years,True,True,1,0
+Gabrielle,True,True,1,0
+The Lady from Shanghai,False,False,1,1
+28 Days Later,True,True,1,0
+Boy Wonder,True,False,1,0
+Submarino,False,True,1,1
+A Terrible Night,False,True,1,1
+2 Days in Paris,True,True,1,0
+Hollow Man,True,False,1,0
+Cat Ballou,True,False,1,0
+Laura,True,True,1,0
+Jane Got a Gun,False,False,1,1
+The 36 Crazy Fists,False,False,1,1
+Blended,True,True,1,0
+Lola Versus,True,True,1,0
+The Family That Preys,True,True,1,0
+Inside Man,True,False,1,0
+The Longest Yard,False,True,1,1
+The Duke of Burgundy,True,True,1,0
+Sinbad: Legend of the Seven Seas,False,False,1,1
+Sparkle,True,True,1,0
+Sorority Row,True,True,1,0
+Paul Blart: Mall Cop 2,False,False,1,1
+Insomnia,False,False,1,1
+Women in Love,True,True,1,0
+The Hurricane,False,True,1,1
+Chariots of Fire,False,False,1,1
+Zero Motivation,True,True,1,0
+Romeo and Juliet,True,True,1,0
+You Again,True,True,1,0
+Angel,True,False,1,0
+Delta Force 2: The Colombian Connection,False,False,1,1
+High Crimes,True,False,1,0
+The Wolfman,False,True,1,1
+45 Years,True,True,1,0
+Bad Words,False,True,1,1
+Morvern Callar,True,True,1,0
+Valhalla Rising,False,False,1,1
+Humpday,False,True,1,1
+Bikini Beach,False,True,1,1
+Look Who's Talking,False,True,1,1
+All Dogs Go to Heaven,True,True,1,0
+Foxfire,True,False,1,0
+Police Academy: Mission to Moscow,False,False,1,1
+Someone's Watching Me!,True,True,1,0
+The Deep,False,True,1,1
+D.E.B.S.,True,False,1,0
+Leprechaun,False,True,1,1
+The Prestige,False,True,1,1
+Ex Machina,False,True,1,1
+X+Y,False,True,1,1
+Sirens,True,True,1,0
+Around the World in 80 Days,False,False,1,1
+From Hell,True,True,1,0
+Blue Jasmine,True,True,1,0
+National Lampoon's Christmas Vacation,True,True,1,0
+Salmon Fishing in the Yemen,False,True,1,1
