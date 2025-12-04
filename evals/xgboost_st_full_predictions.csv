@@ -1,0 +1,1603 @@
+title,true,pred,proba,conf_error
+Patton,False,False,0.04294787,0.04294787
+The Black Imp,False,False,0.025076792,0.025076792
+Shanghai Express,True,False,0.12530954,0.8746905
+Kite,False,True,0.5866871,0.5866871
+Jane Eyre,True,True,0.9665641,0.03343588
+Two-Faced Woman,False,True,0.8798505,0.8798505
+Clash of the Titans,True,False,0.4788539,0.52114606
+Southern Comfort,False,False,0.14849436,0.14849436
+Gosford Park,True,True,0.92540914,0.07459086
+John Dies at the End,False,True,0.56607336,0.56607336
+Little Darlings,True,True,0.90528864,0.09471136
+White Bird in a Blizzard,True,True,0.9901748,0.00982523
+Friends with Kids,True,True,0.94606733,0.053932667
+This Is Not a Film,False,False,0.15903127,0.15903127
+The Artist,False,False,0.28134114,0.28134114
+The Bridge on the River Kwai,False,False,0.08332062,0.08332062
+Night at the Museum: Battle of the Smithsonian,False,False,0.4409188,0.4409188
+Bullhead,False,False,0.02204582,0.02204582
+Better Off Dead...,True,True,0.85918456,0.14081544
+Bachelorette,True,True,0.8474184,0.15258157
+Talladega Nights: The Ballad of Ricky Bobby,False,False,0.14623125,0.14623125
+Escape from the Planet of the Apes,False,False,0.0824429,0.0824429
+Hedwig and the Angry Inch,True,False,0.43494016,0.56505984
+Sophie Scholl: The Final Days,True,True,0.975182,0.024818003
+Crows,True,True,0.9304432,0.06955677
+The Guilt Trip,True,True,0.85661054,0.14338946
+My Stepmother is an Alien,True,True,0.9734948,0.026505172
+Joe Kidd,False,False,0.022821955,0.022821955
+Mommie Dearest,True,True,0.98630375,0.013696253
+Munich,False,False,0.23342222,0.23342222
+When Marnie Was There,True,True,0.95917183,0.04082817
+Beltracchi - The Art of the Forgery,False,False,0.13163869,0.13163869
+Footnote,False,False,0.2616683,0.2616683
+Igby Goes Down,False,False,0.45001283,0.45001283
+Accepted,False,False,0.3151591,0.3151591
+The In-Laws,True,False,0.2207984,0.7792016
+Enchanted,True,True,0.9896415,0.010358512
+The Baader Meinhof Complex,True,False,0.4537564,0.5462436
+Nights of Cabiria,True,True,0.5508923,0.4491077
+Nasty Old People,True,True,0.95757645,0.042423546
+Miss You Already,True,True,0.9670949,0.0329051
+The Man with the Golden Gun,False,False,0.026818391,0.026818391
+I Heart Huckabees,True,True,0.67763674,0.32236326
+Kiss of the Damned,True,True,0.8195149,0.18048513
+St. Vincent,True,False,0.46142492,0.53857505
+"My Son, My Son, What Have Ye Done",False,False,0.41014922,0.41014922
+Concussion,False,False,0.053032722,0.053032722
+Freedom Writers,True,True,0.9700834,0.029916584
+Invasion of the Body Snatchers,True,False,0.4748274,0.5251726
+The Frighteners,True,False,0.39531454,0.6046854
+The Gymnast,True,True,0.6623926,0.33760738
+Brazil,True,True,0.66534835,0.33465165
+The Book of Eli,True,False,0.26934174,0.7306583
+Night of the Demon,True,False,0.2972291,0.7027709
+Casanova,True,True,0.83346486,0.16653514
+Hall Pass,False,True,0.6534558,0.6534558
+Hellfighters,False,False,0.15130258,0.15130258
+Batman & Mr. Freeze: SubZero,False,True,0.81516206,0.81516206
+Min and Bill,True,True,0.72517085,0.27482915
+My Big Fat Greek Wedding,True,True,0.9820932,0.017906785
+Sabrina,True,True,0.9813285,0.018671513
+The Wind Journeys,False,False,0.11972681,0.11972681
+Piranha,True,True,0.63661784,0.36338216
+Herbie Fully Loaded,True,True,0.7840432,0.2159568
+Our Summer in Provence,True,True,0.7002234,0.2997766
+A Nightmare on Elm Street,True,True,0.5645983,0.43540168
+The Pretty One,True,True,0.992547,0.0074530244
+The Goodbye Girl,True,True,0.6343427,0.36565733
+The American,False,False,0.14926943,0.14926943
+The Way Back,False,False,0.0858332,0.0858332
+Dark Harbor,False,False,0.40482122,0.40482122
+Tipping the Velvet,True,True,0.92135215,0.07864785
+Wild Things,True,False,0.38392246,0.61607754
+Empire Records,True,True,0.5950458,0.4049542
+Texas Chainsaw 3D,True,True,0.9455933,0.054406703
+Devdas,True,False,0.36606565,0.6339344
+Clouds of Sils Maria,True,True,0.9879118,0.01208818
+Cheaper by the Dozen,False,True,0.5499461,0.5499461
+Pippi in the South Seas,True,False,0.23967794,0.7603221
+My Demon Lover,False,True,0.79030055,0.79030055
+Charade,False,True,0.9325528,0.9325528
+Unbreakable,False,False,0.09096577,0.09096577
+The Girl Who Kicked the Hornet's Nest,True,True,0.9656751,0.034324884
+Comrade X,False,False,0.40294752,0.40294752
+Defiance,True,False,0.17424846,0.82575154
+Vive L'Amour,False,True,0.911612,0.911612
+Scent of a Woman,False,True,0.8564994,0.8564994
+Feeding Frenzy,True,False,0.14511397,0.85488605
+Wanderlust,True,True,0.7211108,0.27888918
+The BFG,True,True,0.7090841,0.2909159
+"The Beast from 20,000 Fathoms",False,False,0.18846475,0.18846475
+A Time to Kill,False,False,0.38662034,0.38662034
+The Reluctant Dragon,True,False,0.06646245,0.93353754
+The Karate Kid,True,False,0.3552627,0.6447373
+Beloved,True,True,0.947471,0.052528977
+The Savages,True,True,0.95172423,0.04827577
+Fermat's Room,False,True,0.79368764,0.79368764
+Dummy,True,True,0.77561283,0.22438717
+Yellowbeard,False,False,0.01759828,0.01759828
+Das Boot,False,False,0.08440475,0.08440475
+This Is 40,True,True,0.94055945,0.059440553
+Animal Crackers,True,False,0.12778048,0.8722195
+Silent Hill: Revelation 3D,True,True,0.99549145,0.004508555
+The Nightmare Before Christmas,False,True,0.7557178,0.7557178
+The Invisible Guest,False,False,0.20673342,0.20673342
+Pleasantville,True,True,0.971623,0.028376997
+The Normal Heart,False,True,0.64043695,0.64043695
+Triangle,True,False,0.3250494,0.6749506
+Skin,True,True,0.93343765,0.066562355
+Foxy Brown,True,True,0.8355412,0.16445881
+"Suddenly, Last Summer",True,True,0.99451387,0.0054861307
+A Woman Is a Woman,False,True,0.9331927,0.9331927
+Angry Indian Goddesses,True,True,0.96367127,0.036328733
+Mega Shark vs Giant Octopus,False,True,0.6238494,0.6238494
+Magic Mike,True,False,0.42872,0.57128
+Day of the Dead,True,True,0.6162096,0.38379037
+Marion Bridge,True,True,0.99040496,0.0095950365
+Rich and Famous,True,True,0.98360324,0.016396761
+Brideshead Revisited,False,True,0.92332274,0.92332274
+Warm Bodies,False,True,0.7030626,0.7030626
+Bad Taste,False,False,0.39471567,0.39471567
+Itty Bitty Titty Committee,True,True,0.9915679,0.00843209
+Shall We Dance,False,True,0.9138889,0.9138889
+Hands off Mississippi,True,True,0.96450424,0.035495758
+An American Werewolf in London,False,False,0.44508708,0.44508708
+Control,False,False,0.3655742,0.3655742
+Monga,False,False,0.45342916,0.45342916
+Treeless Mountain,True,True,0.98889226,0.011107743
+Fired Up!,False,True,0.9512399,0.9512399
+The Interview,False,False,0.40998548,0.40998548
+Goon: Last of the Enforcers,False,True,0.7807655,0.7807655
+Divine Secrets of the Ya-Ya Sisterhood,True,True,0.9716566,0.02834338
+Song of the Sea,True,True,0.65239114,0.34760886
+Blackhat,False,False,0.050969735,0.050969735
+"Synecdoche, New York",True,True,0.62876046,0.37123954
+Vanishing on 7th Street,False,True,0.78181547,0.78181547
+A Little Help,True,True,0.9600863,0.039913714
+Ten Inch Hero,True,True,0.7306486,0.26935142
+The Night Flier,True,True,0.5295579,0.47044212
+Atomic Blonde,True,True,0.6451581,0.3548419
+The Grudge,True,True,0.9546205,0.04537952
+A Most Violent Year,True,False,0.484793,0.515207
+Police Academy 4: Citizens on Patrol,False,False,0.09242908,0.09242908
+Carnival of Souls,True,True,0.8932771,0.10672289
+Smashing Time,True,True,0.9193519,0.080648124
+The Girl Who Leapt Through Time,True,True,0.96780014,0.03219986
+"You, Me and Him",False,False,0.15525298,0.15525298
+Vanishing Point,False,False,0.093820095,0.093820095
+Concussion,True,True,0.9915844,0.00841558
+Nighthawks,False,False,0.044025544,0.044025544
+The Crown and the Dragon,True,True,0.73076844,0.26923156
+World Gone Wild,True,False,0.24655913,0.75344086
+Sneakers,False,False,0.08136444,0.08136444
+Godzilla vs. Megalon,False,False,0.07739305,0.07739305
+The Ardor,False,False,0.16540633,0.16540633
+Fifty Shades Darker,True,True,0.8767301,0.123269916
+Walking and Talking,True,True,0.98843133,0.0115686655
+Green Lantern,False,False,0.37685072,0.37685072
+The Silence,True,True,0.95155585,0.048444152
+The Unknown Woman,True,True,0.9962296,0.003770411
+Argo,True,False,0.14852111,0.8514789
+The Judgement,False,False,0.15320468,0.15320468
+Ginger Snaps 2: Unleashed,True,True,0.9881086,0.011891425
+Three to Tango,False,False,0.13642876,0.13642876
+My Name Is Emily,True,True,0.97976345,0.020236552
+The Dinner Game,False,False,0.17838259,0.17838259
+RoboCop 3,True,False,0.12979063,0.87020934
+Vampires,False,True,0.543616,0.543616
+The Snow Queen,True,True,0.7923783,0.2076217
+My Mother Likes Women,True,True,0.99492836,0.00507164
+Cloud Atlas,True,True,0.5160786,0.4839214
+Godzilla vs. Hedorah,True,False,0.08077605,0.91922396
+Erin Brockovich,True,True,0.9702992,0.029700816
+The Accidental Tourist,False,True,0.566357,0.566357
+What Dreams May Come,False,True,0.6461362,0.6461362
+The Snake Pit,True,True,0.94292843,0.057071567
+Twelve Monkeys,False,False,0.15319014,0.15319014
+The Game,False,False,0.06611852,0.06611852
+The 13 Roses,True,True,0.97111964,0.028880358
+Heartbreak Hotel,False,True,0.97106194,0.97106194
+Familiar Ground,False,True,0.5776637,0.5776637
+Cannibal! The Musical,True,False,0.057523437,0.9424766
+The Magic Box,False,True,0.5407954,0.5407954
+Harry Potter and the Philosopher's Stone,True,True,0.54816866,0.45183134
+Animal Kingdom,False,True,0.644129,0.644129
+The Man Who Cried,True,True,0.51119787,0.48880213
+Canadian Bacon,False,False,0.33313558,0.33313558
+Jackpot,False,False,0.17625399,0.17625399
+I Love You Phillip Morris,False,False,0.17802137,0.17802137
+Rewind,False,False,0.49370927,0.49370927
+BASEketball,False,False,0.10402165,0.10402165
+A Few Good Men,False,False,0.18468596,0.18468596
+The Magdalene Sisters,True,True,0.99358374,0.006416261
+Bound,True,True,0.97523165,0.024768353
+Le Week-End,False,True,0.85150343,0.85150343
+Coffy,False,True,0.97579896,0.97579896
+Chicago,True,True,0.9064526,0.093547404
+Bandage,True,True,0.7533873,0.24661273
+Excalibur,False,False,0.17971624,0.17971624
+Yelling To The Sky,True,True,0.9737762,0.026223779
+The Green Inferno,True,True,0.69729537,0.30270463
+Death Rides a Horse,False,False,0.0460593,0.0460593
+Hellraiser: Inferno,False,False,0.07480685,0.07480685
+Overdose,False,False,0.051274493,0.051274493
+The Frame,True,False,0.35137784,0.64862216
+The Slumber Party Massacre,True,True,0.97682786,0.02317214
+Band of Outsiders,True,False,0.042405482,0.9575945
+Miss Sadie Thompson,True,True,0.92115927,0.07884073
+Babette's Feast,True,True,0.71547705,0.28452295
+Hellraiser: Bloodline,False,False,0.27320027,0.27320027
+Southside with You,False,True,0.63934606,0.63934606
+Glen or Glenda,False,True,0.5474187,0.5474187
+The Abyss,True,False,0.13397783,0.86602217
+2 Fast 2 Furious,False,False,0.18522087,0.18522087
+Sister Act 2: Back in the Habit,True,True,0.99248743,0.0075125694
+Life Inside Out,True,True,0.9897564,0.010243595
+Land Ho!,True,False,0.28665307,0.71334696
+Cat People,True,True,0.94848895,0.05151105
+Ice Age: Continental Drift,False,False,0.3212219,0.3212219
+Saw III,True,False,0.48533523,0.51466477
+Once Upon a Time in Mexico,False,False,0.29319772,0.29319772
+Sleepless in Seattle,False,True,0.8307354,0.8307354
+Boom Town,False,False,0.3503462,0.3503462
+Cinderella,True,True,0.60076064,0.39923936
+Amityville: The Awakening,True,True,0.9947923,0.0052077174
+My Neighbor Totoro,True,True,0.9830223,0.016977727
+Year One,True,True,0.7299292,0.2700708
+Terminal Island,True,False,0.40042216,0.59957784
+The Giant Gila Monster,True,False,0.16765891,0.8323411
+The History Boys,False,False,0.20471255,0.20471255
+French Kiss,False,True,0.6394836,0.6394836
+The Big Wedding,True,True,0.8542973,0.14570272
+The General,False,False,0.004355646,0.004355646
+Night at the Museum: Secret of the Tomb,False,False,0.48129776,0.48129776
+Tank Girl,True,True,0.99148047,0.00851953
+Executive Suite,False,False,0.098685816,0.098685816
+47 Meters Down,True,True,0.5594726,0.44052738
+King Kong,False,False,0.22566031,0.22566031
+State of Play,True,True,0.5669517,0.4330483
+Love Camp,True,True,0.93730795,0.062692046
+30 Days of Night,False,True,0.6204406,0.6204406
+Possession,False,True,0.8628209,0.8628209
+Juno and the Paycock,True,True,0.6611725,0.3388275
+The Associate,True,True,0.85687506,0.14312494
+Conversations with God,False,False,0.27933547,0.27933547
+Thelma & Louise,True,True,0.6760983,0.3239017
+Ray,True,False,0.43588465,0.56411535
+Elephant,True,True,0.5929374,0.4070626
+Kung Fu Panda,True,False,0.17001721,0.82998276
+In the Cut,True,True,0.9346712,0.06532878
+Power Rangers,True,True,0.68990964,0.31009036
+Across the Universe,True,True,0.71975416,0.28024584
+The Invisible Man,False,False,0.08577866,0.08577866
+Cycling with Molière,False,True,0.647515,0.647515
+Lakota Woman: Siege at Wounded Knee,True,True,0.97681385,0.023186147
+Fatal Beauty,False,True,0.61228544,0.61228544
+Life,True,False,0.10675501,0.893245
+Hobo with a Shotgun,False,False,0.18375714,0.18375714
+Enough,False,True,0.8194311,0.8194311
+The Awakening,True,True,0.8933984,0.106601596
+"Race for Your Life, Charlie Brown",True,False,0.3746871,0.6253129
+The Boys from Brazil,False,False,0.12042861,0.12042861
+Shanghai Noon,False,True,0.517147,0.517147
+Emelie,True,True,0.9914199,0.008580089
+Heal the Living,False,True,0.84890264,0.84890264
+The November Man,False,False,0.04888484,0.04888484
+Pineapple Express,False,False,0.17883295,0.17883295
+Mr. Holland's Opus,True,False,0.30650643,0.6934936
+Draft Day,False,False,0.071739905,0.071739905
+The Devil and Miss Jones,True,False,0.21273208,0.7872679
+Lady Chatterley's Lover,True,True,0.8603255,0.13967448
+The Man in the Iron Mask,False,False,0.040741507,0.040741507
+The Devil's Violinist,True,False,0.185796,0.814204
+Show Me Love,True,True,0.96595585,0.034044147
+Monster's Ball,False,True,0.8143829,0.8143829
+Dream House,True,True,0.99250305,0.007496953
+Open Road,True,True,0.98836786,0.011632144
+Four Christmases,True,True,0.9349941,0.0650059
+Drop Zone,False,False,0.24473502,0.24473502
+The Lego Movie,True,False,0.25714672,0.7428533
+The Book of Life,True,False,0.23775806,0.76224196
+Intruders,True,True,0.98870903,0.011290967
+Sword of Vengeance,False,False,0.18231352,0.18231352
+Pecker,True,False,0.15506862,0.84493136
+The Butler,True,False,0.1274989,0.87250113
+The Return of Martin Guerre,True,False,0.03730366,0.9626963
+A Nightmare on Elm Street 5: The Dream Child,True,True,0.8973705,0.10262948
+The Others,True,True,0.99084926,0.0091507435
+Enchanted April,True,True,0.9686838,0.03131622
+Exodus: Gods and Kings,False,False,0.21672253,0.21672253
+"Get Smart, Again!",True,True,0.5799248,0.42007518
+In My Country,True,True,0.5752063,0.42479372
+Terminator 2: Judgment Day,True,True,0.7658147,0.23418528
+Pentathlon,False,False,0.0139533095,0.0139533095
+Bullet to the Head,False,False,0.04649354,0.04649354
+Double Jeopardy,True,True,0.8944478,0.1055522
+The Letter,False,True,0.956612,0.956612
+The Initiation,True,True,0.97477156,0.02522844
+Rowing with the Wind,False,True,0.9106679,0.9106679
+Ben-Hur,False,False,0.04543995,0.04543995
+The Petrified Forest,True,True,0.64122695,0.35877305
+Downfall,True,False,0.31994173,0.68005824
+Sleepwalk with Me,False,True,0.54024017,0.54024017
+"I Was Born, But...",False,False,0.26419264,0.26419264
+Family Resemblances,True,True,0.9186035,0.08139652
+Don Jon,True,False,0.31273603,0.68726397
+The Adventures of Prince Achmed,False,False,0.021488797,0.021488797
+The Wrong Man,False,False,0.31160593,0.31160593
+Monte Carlo,True,True,0.98986024,0.010139763
+Ricki and the Flash,True,True,0.94304,0.056959987
+Ladies in Lavender,True,True,0.9496168,0.05038321
+The Truth About Emanuel,True,True,0.9930709,0.0069290996
+The Darkest Hour,True,False,0.2844069,0.7155931
+"The Karate Kid, Part III",False,False,0.24402255,0.24402255
+The Mask,False,False,0.104098864,0.104098864
+"Belphegor, Phantom of the Louvre",True,False,0.26320106,0.73679894
+Human Nature,True,True,0.6626857,0.3373143
+The Space Between Us,True,True,0.7057979,0.2942021
+Spice World,True,True,0.9209843,0.07901567
+Back to School,False,False,0.35881856,0.35881856
+Deathstalker,False,False,0.4901255,0.4901255
+Bitch Hug,True,True,0.97717685,0.022823155
+Chocolat,True,True,0.98622096,0.013779044
+Stardust,True,False,0.27846116,0.72153884
+Crocodile Dundee II,False,False,0.33157945,0.33157945
+Mulberry Street,False,True,0.6974192,0.6974192
+Jeremiah Johnson,False,False,0.0139168855,0.0139168855
+George of the Jungle,True,True,0.897104,0.102895975
+Blue Ruin,True,False,0.30289727,0.6971027
+Born into Brothels,True,True,0.7686497,0.2313503
+God's Not Dead,True,False,0.21895722,0.7810428
+Horse Feathers,False,False,0.10269329,0.10269329
+Nanny McPhee and the Big Bang,True,True,0.9804221,0.01957792
+Big Eyes,True,False,0.4992265,0.5007735
+Where Eagles Dare,True,False,0.025196105,0.9748039
+The Cabin in the Woods,True,True,0.565212,0.434788
+Barbie of Swan Lake,True,True,0.9485578,0.051442206
+Princess Protection Program,True,True,0.9832212,0.016778827
+Hypocrites,False,False,0.41310054,0.41310054
+Whisper,False,False,0.31251788,0.31251788
+India,False,True,0.5114744,0.5114744
+May,True,True,0.99709344,0.002906561
+Day of Wrath,True,True,0.9443399,0.05566013
+"Ghidorah, the Three-Headed Monster",True,False,0.05340039,0.9465996
+The Last Unicorn,True,True,0.9361545,0.063845515
+Management,False,True,0.9080736,0.9080736
+Satantango,False,False,0.22427917,0.22427917
+The Thief of Bagdad,False,False,0.014348112,0.014348112
+"Chill Out, Scooby-Doo!",True,True,0.6639392,0.33606082
+Double Trouble,False,False,0.07323183,0.07323183
+Lake Mungo,False,True,0.9145728,0.9145728
+The Prime of Miss Jean Brodie,True,True,0.940248,0.059751987
+Say Uncle,False,True,0.899986,0.899986
+The Man Who Copied,False,False,0.05916227,0.05916227
+Insidious: Chapter 3,True,True,0.99458057,0.005419433
+Kangaroo Jack,False,False,0.0987554,0.0987554
+Don't Make Waves,True,False,0.3650822,0.6349178
+Ju-on: The Grudge,True,True,0.8129264,0.18707359
+The Daytrippers,True,True,0.9794114,0.020588577
+Lady in White,False,True,0.89601976,0.89601976
+Welcome to Happiness,False,True,0.74110043,0.74110043
+"Definitely, Maybe",True,True,0.80782443,0.19217557
+The Royal Tenenbaums,True,True,0.83565176,0.16434824
+Lady Snowblood,True,True,0.96166205,0.038337946
+Interview with a Hitman,False,False,0.04002098,0.04002098
+The Hangover Part II,False,True,0.73643976,0.73643976
+Charlie and the Chocolate Factory,True,False,0.3657057,0.6342943
+Letters to Juliet,True,True,0.91559356,0.084406435
+Star Trek: First Contact,True,True,0.61552286,0.38447714
+Himizu,True,True,0.56407505,0.43592495
+Taxi,True,False,0.05589518,0.9441048
+Vicky Cristina Barcelona,True,True,0.9133627,0.08663732
+Love Exposure,True,True,0.9225545,0.07744551
+Jimmy's Hall,False,True,0.6152168,0.6152168
+Jersey Girl,False,True,0.9176289,0.9176289
+Die Nibelungen: Kriemhild's Revenge,False,False,0.41307086,0.41307086
+Ali: Fear Eats the Soul,True,True,0.51436996,0.48563004
+Mamma Mia!,True,True,0.9939229,0.006077111
+Office,True,True,0.58608836,0.41391164
+Stake Land,False,False,0.3619498,0.3619498
+The Blair Witch Project,True,True,0.7742946,0.22570539
+Let's Make Love,False,True,0.69550776,0.69550776
+Material Girls,True,True,0.9832766,0.016723394
+Antz,True,False,0.09195236,0.9080476
+Transfer,True,True,0.8650123,0.13498771
+Hobson's Choice,True,True,0.81285846,0.18714154
+Dersu Uzala,False,False,0.09623497,0.09623497
+Always Shine,True,True,0.9241083,0.07589167
+Quinceañera,True,True,0.9733426,0.026657403
+Branded to Kill,False,False,0.11079099,0.11079099
+Starship Troopers,True,False,0.11390221,0.8860978
+52 Tuesdays,True,True,0.98781896,0.012181044
+Sunshine Cleaning,True,True,0.9813178,0.018682182
+The Throne,True,False,0.356996,0.643004
+Lynch,False,False,0.25412074,0.25412074
+Soldier's Girl,True,True,0.9502551,0.049744904
+Dollybirds,False,True,0.7198949,0.7198949
+Beyond the Hills,True,True,0.97145575,0.028544247
+One Flew Over the Cuckoo's Nest,False,False,0.49223304,0.49223304
+L'Avventura,True,True,0.84972787,0.15027213
+Mannequin,False,True,0.5362946,0.5362946
+Gladiator,False,False,0.068322234,0.068322234
+The Secret of NIMH,True,True,0.86682355,0.13317645
+The Big Blue,False,False,0.17819798,0.17819798
+What's in a Name,True,True,0.6902516,0.3097484
+Giorgino,True,True,0.5804509,0.4195491
+The Glass Slipper,True,False,0.28287554,0.71712446
+Fast & Furious,False,False,0.16557677,0.16557677
+Le Divorce,True,True,0.98011565,0.019884348
+Your Name.,True,True,0.78299403,0.21700597
+Moscow Does Not Believe in Tears,True,True,0.92493546,0.07506454
+Barbie as Rapunzel,False,True,0.99542916,0.99542916
+Mercury Rising,False,False,0.10697039,0.10697039
+Sisters,True,True,0.91117316,0.088826835
+The Story of Adele H,True,True,0.8922482,0.10775179
+42,False,False,0.090973035,0.090973035
+Hour of the Star,True,True,0.9455137,0.054486275
+Paa,False,False,0.3835658,0.3835658
+Michael Collins,False,False,0.2838858,0.2838858
+Bad Boys II,False,False,0.3292025,0.3292025
+Short Cuts,True,True,0.62956977,0.37043023
+Defending Your Life,True,False,0.28633606,0.71366394
+Seven Psychopaths,False,False,0.21166468,0.21166468
+Fight Club,False,True,0.51908827,0.51908827
+Halloweentown,True,True,0.99781823,0.0021817684
+A Thousand Words,False,False,0.15643974,0.15643974
+Capitalism: A Love Story,False,False,0.32673228,0.32673228
+When Night Is Falling,True,True,0.98506886,0.014931142
+The Second Mother,True,True,0.99124676,0.00875324
+Ms .45,True,True,0.950408,0.049592018
+Extracted,False,False,0.054840412,0.054840412
+Misery,False,True,0.8234791,0.8234791
+Born in Flames,True,False,0.3135572,0.6864428
+Revolutionary Girl Utena: The Movie,True,True,0.9901815,0.009818494
+Mutafukaz,False,False,0.29893413,0.29893413
+Before the Devil Knows You're Dead,False,True,0.5363893,0.5363893
+Filth,False,False,0.3173003,0.3173003
+Girl Most Likely,True,True,0.99132955,0.008670449
+Monster High: 13 Wishes,False,True,0.97163814,0.97163814
+Rob Roy,False,False,0.037101515,0.037101515
+San Andreas,True,True,0.76250327,0.23749673
+War Machine,False,False,0.1517223,0.1517223
+Kung Fu Hustle,False,False,0.12785886,0.12785886
+The Cry of the Owl,False,True,0.5596805,0.5596805
+White House Down,False,True,0.5133685,0.5133685
+Manny & Lo,True,True,0.92778426,0.072215736
+Adore,True,True,0.8578419,0.14215809
+Rent,True,False,0.44359282,0.5564072
+Without a Paddle,True,False,0.08102521,0.91897476
+The Purge,True,True,0.6804763,0.3195237
+Zazie dans le métro,True,True,0.7025819,0.29741812
+Dreamgirls,True,True,0.98886245,0.011137545
+The Count of Monte Cristo,False,False,0.03686563,0.03686563
+From Beyond,True,False,0.32097068,0.67902935
+Dracula's Daughter,True,True,0.9766688,0.023331225
+Nim's Island,True,True,0.99148846,0.008511543
+Juarez,False,False,0.23758803,0.23758803
+Welcome to the Punch,False,False,0.21757312,0.21757312
+Captain Fantastic,True,False,0.19399643,0.8060036
+Once Upon a Time in the West,False,True,0.9325433,0.9325433
+Justice League vs. Teen Titans,True,False,0.35190132,0.6480987
+Lone Wolf and Cub: Baby Cart at the River Styx,False,False,0.042180475,0.042180475
+In the Electric Mist,False,False,0.45570308,0.45570308
+The Wages of Fear,False,False,0.060291644,0.060291644
+I Love You to Death,True,True,0.6303459,0.36965412
+Hick,True,True,0.92979944,0.07020056
+Crank,False,False,0.24383356,0.24383356
+The Wrecking Crew,True,False,0.078587465,0.9214125
+The Party 2,True,True,0.9441222,0.055877805
+September,True,True,0.8419505,0.15804952
+Summer Magic,True,True,0.92996883,0.070031166
+The Gift,True,False,0.4178227,0.5821773
+Fireworks,False,False,0.37025937,0.37025937
+Failure to Launch,False,False,0.25598246,0.25598246
+Paradise Now,False,False,0.1318404,0.1318404
+Dodge City,False,False,0.34895304,0.34895304
+Nothing Personal,True,True,0.9586878,0.041312218
+Saved!,True,True,0.9932225,0.006777525
+The Dirty Dozen,False,False,0.1296164,0.1296164
+Days of Heaven,True,False,0.34808546,0.65191454
+The Science of Sleep,True,False,0.45472133,0.54527867
+Banana Joe,False,False,0.016889423,0.016889423
+Kes,False,False,0.06910477,0.06910477
+The Matrix Revolutions,True,False,0.33864897,0.661351
+The Net,True,True,0.9480871,0.051912904
+Loving,True,True,0.7571513,0.2428487
+Camino,True,True,0.98752093,0.012479067
+Kissing Jessica Stein,True,True,0.95342165,0.046578348
+Eve's Bayou,True,True,0.940132,0.059867978
+Hannah Montana: The Movie,False,True,0.9822297,0.9822297
+Exit Through the Gift Shop,False,False,0.45192704,0.45192704
+Zoolander,True,False,0.34942374,0.65057623
+5 Days of War,False,False,0.20506552,0.20506552
+Angels' Brigade,True,True,0.851014,0.14898598
+The Untouchables,False,False,0.040779646,0.040779646
+Freddy Got Fingered,False,True,0.5428938,0.5428938
+Europa,False,False,0.26765993,0.26765993
+The Angels' Share,False,True,0.6373569,0.6373569
+L'aventure c'est l'aventure,False,False,0.45505857,0.45505857
+In the Company of Men,False,True,0.8124059,0.8124059
+Autumn Sonata,True,True,0.98129994,0.018700063
+Resident Evil: Afterlife,True,True,0.9787517,0.021248281
+Beyond Silence,True,True,0.9708973,0.029102683
+Mindhunters,False,False,0.13804708,0.13804708
+Radio Days,False,True,0.6653592,0.6653592
+"You, Me and Dupree",False,False,0.3696671,0.3696671
+Running on Empty,False,False,0.18530469,0.18530469
+The Lion King 2: Simba's Pride,True,True,0.8265343,0.17346573
+Fast Times at Ridgemont High,False,True,0.72406423,0.72406423
+Dead Hooker in a Trunk,True,True,0.53248113,0.46751887
+Iron Sky: The Coming Race,True,False,0.4377511,0.5622489
+The Jungle Book,False,False,0.2937484,0.2937484
+Forrest Gump,False,False,0.122089535,0.122089535
+Grandma's Reading Glass,False,True,0.6787001,0.6787001
+Krampus,True,True,0.83821267,0.16178733
+Star Trek,True,True,0.7526054,0.24739462
+Airheads,False,False,0.28217486,0.28217486
+"Sherlock, Jr.",False,False,0.04065817,0.04065817
+Pulse,True,True,0.5639232,0.43607682
+Batman: Year One,True,False,0.13150918,0.8684908
+The Thing from Another World,False,False,0.2721457,0.2721457
+Uptown Girls,True,True,0.986112,0.013888001
+Free Fall,False,False,0.13444196,0.13444196
+Camille Claudel 1915,True,True,0.9844372,0.015562773
+Shock Corridor,False,False,0.15609035,0.15609035
+Clue,True,False,0.2760402,0.7239598
+My Skinny Sister,True,True,0.99426806,0.0057319403
+Seven Samurai,False,False,0.058371257,0.058371257
+Pokémon: The Rise of Darkrai,True,True,0.771858,0.22814202
+The Terrace,True,True,0.9659124,0.0340876
+The Best Years of Our Lives,False,False,0.1667285,0.1667285
+Tremors 4: The Legend Begins,True,True,0.55026895,0.44973105
+Full Metal Jacket,False,False,0.06814153,0.06814153
+Alice,True,True,0.99075127,0.0092487335
+War Horse,False,False,0.034446474,0.034446474
+Sweet and Lowdown,False,False,0.21980104,0.21980104
+But I'm a Cheerleader,True,True,0.98341537,0.016584635
+Star Trek Beyond,False,False,0.39175257,0.39175257
+Precious,True,True,0.990399,0.009600997
+The End of the Tour,False,False,0.1250283,0.1250283
+The Summer of Sangaile,True,True,0.9799983,0.02000171
+The Beach,False,True,0.6402557,0.6402557
+Police Academy 3: Back in Training,False,False,0.14444822,0.14444822
+Planetarium,True,True,0.97590655,0.02409345
+SpaceCamp,True,True,0.812709,0.18729103
+Heartless,False,False,0.089577176,0.089577176
+Just Wright,True,True,0.9548456,0.045154393
+No Reservations,True,True,0.957043,0.042957008
+Tully,False,True,0.5862533,0.5862533
+Savage Beach,True,False,0.25674796,0.74325204
+Killing Daddy,True,True,0.9663644,0.033635616
+Next,False,False,0.4004905,0.4004905
+Evil Dead II,True,True,0.6114329,0.3885671
+The Devil Wears Prada,True,True,0.9929658,0.0070341825
+The Next Three Days,True,True,0.9656952,0.034304798
+H.,False,True,0.9639395,0.9639395
+Lion's Den,True,True,0.9409687,0.059031308
+Red Cliff,False,False,0.08358075,0.08358075
+Push,True,True,0.7648381,0.2351619
+Man on a Ledge,False,False,0.06630857,0.06630857
+Sweet Virginia,True,False,0.11295994,0.8870401
+Freddie as F.R.O.7.,False,False,0.20442908,0.20442908
+The Fifth Seal,False,False,0.42620978,0.42620978
+Lincoln,True,False,0.47595862,0.5240414
+Bride of Chucky,False,True,0.91233367,0.91233367
+The Bonfire of the Vanities,False,False,0.41431546,0.41431546
+The Quiet,True,True,0.9862809,0.013719082
+A Late Quartet,True,True,0.6666065,0.3333935
+The Lion King 1½,False,False,0.4630837,0.4630837
+Clifford,True,False,0.14277622,0.85722375
+Happily Ever After,True,True,0.9374244,0.06257558
+The Three Caballeros,False,False,0.055113878,0.055113878
+Ghostbusters,True,True,0.89725566,0.10274434
+Freaky Friday,True,True,0.99735,0.0026500225
+Minority Report,False,False,0.046045285,0.046045285
+Astérix and Obélix: God Save Britannia,False,False,0.3468523,0.3468523
+The Triplets of Belleville,True,True,0.967431,0.03256899
+Auntie Mame,True,True,0.7964376,0.20356238
+The Waterboy,False,False,0.16351837,0.16351837
+Chico & Rita,False,True,0.7456657,0.7456657
+A Walk on the Moon,True,True,0.9865025,0.013497472
+Monster,True,True,0.96056,0.039439976
+The Road,False,False,0.31950969,0.31950969
+Beverly Hills Chihuahua,True,True,0.97535026,0.02464974
+The Mummy Returns,True,False,0.19459675,0.80540323
+Command Decision,False,False,0.06675858,0.06675858
+12:08 East of Bucharest,False,False,0.17912056,0.17912056
+Pink Floyd: The Wall,False,False,0.07209179,0.07209179
+Over Her Dead Body,True,True,0.93383384,0.06616616
+Accident,False,False,0.4104586,0.4104586
+Bad Boy Bubby,False,False,0.3128832,0.3128832
+The World's End,False,True,0.6714034,0.6714034
+Wilbur Wants to Kill Himself,True,False,0.40341347,0.5965865
+600 Miles,False,False,0.025217716,0.025217716
+A Bronx Tale,False,True,0.59092957,0.59092957
+Berserk,True,True,0.9531387,0.04686129
+Chloe,True,True,0.953308,0.046692014
+Saving Face,True,True,0.63029194,0.36970806
+Terror Firmer,True,True,0.83720547,0.16279453
+Only God Forgives,True,True,0.6670628,0.33293718
+Black Water,True,True,0.884742,0.11525798
+Please Give,True,True,0.9843054,0.015694618
+Escape from L.A.,False,False,0.37006906,0.37006906
+Thir13en Ghosts,False,True,0.6983455,0.6983455
+Disturbia,True,True,0.74735916,0.25264084
+The Wedding Date,True,True,0.86962193,0.13037807
+My Life as a Zucchini,True,True,0.8768266,0.123173416
+La Parisienne,False,True,0.83324736,0.83324736
+A Woman Under the Influence,True,True,0.9774417,0.022558272
+The Railrodder,False,False,0.11932263,0.11932263
+Sliding Doors,True,True,0.96405154,0.035948455
+Criminal Justice,True,False,0.29905364,0.70094633
+Shutter Island,False,False,0.038493045,0.038493045
+Marketa Lazarová,False,False,0.1894857,0.1894857
+Dagon,True,False,0.0880145,0.9119855
+Numb,False,False,0.35882157,0.35882157
+Girls Just Want to Have Fun,True,True,0.99390256,0.006097436
+Killer Elite,False,False,0.05455504,0.05455504
+The Conformist,True,False,0.19345444,0.80654556
+The Million Dollar Duck,False,False,0.1601465,0.1601465
+The Girl with the Dragon Tattoo,True,True,0.8990642,0.10093582
+Patch Adams,True,False,0.44103652,0.5589635
+Body Bags,False,True,0.749667,0.749667
+Dave,True,False,0.11141834,0.88858163
+Indiana Jones and the Kingdom of the Crystal Skull,False,False,0.39332134,0.39332134
+A Bucket of Blood,False,False,0.18059732,0.18059732
+Sunset Song,True,True,0.8993451,0.1006549
+Keith,True,True,0.9847957,0.01520431
+Dreamchild,True,True,0.986371,0.013629019
+Under the Same Moon,True,True,0.9320273,0.06797272
+X2,True,True,0.5846088,0.4153912
+School for Scoundrels,False,False,0.4949141,0.4949141
+Advise & Consent,True,True,0.5376096,0.46239042
+Colonia,True,True,0.9878323,0.012167692
+Barbie: The Pearl Princess,True,True,0.9916009,0.008399129
+The Fog,True,False,0.3586035,0.6413965
+Female,True,True,0.9643241,0.035675883
+Nick of Time,True,True,0.67243487,0.32756513
+San Francisco,False,True,0.6928223,0.6928223
+Aloft,True,True,0.58269614,0.41730386
+Ogres,True,True,0.6422826,0.3577174
+Life Stinks,False,False,0.2213114,0.2213114
+The Ref,True,False,0.27581203,0.72418797
+Fatal Instinct,True,False,0.2986894,0.70131063
+Orpheus,False,False,0.32190844,0.32190844
+They Came Back,True,True,0.75424045,0.24575955
+Swing Kids,False,True,0.8876549,0.8876549
+Superman Returns,False,False,0.13428305,0.13428305
+The Conjuring 2,True,True,0.9811385,0.018861473
+Mary and Martha,True,True,0.9935076,0.0064923763
+Out of the Furnace,False,False,0.26040044,0.26040044
+The Boondock Saints II: All Saints Day,False,False,0.1369008,0.1369008
+"To Wong Foo, Thanks for Everything! Julie Newmar",True,True,0.9733532,0.026646793
+Stage Door,True,True,0.8419336,0.15806639
+Strange Magic,True,True,0.89335084,0.10664916
+Voices of a Distant Star,False,True,0.51091355,0.51091355
+The Day After Tomorrow,True,True,0.5741527,0.4258473
+Tremors,True,True,0.5565513,0.44344872
+Being Flynn,False,True,0.74307626,0.74307626
+The Time Traveler's Wife,True,True,0.9019272,0.09807283
+Pinocchio,False,False,0.052952114,0.052952114
+Hurricane Bianca,True,True,0.95946056,0.040539443
+"Silent Night, Deadly Night",True,False,0.2546654,0.7453346
+Man of Tai Chi,True,False,0.04179281,0.9582072
+The Set-Up,False,False,0.007736479,0.007736479
+The Young Victoria,True,True,0.9207152,0.07928479
+The Amazing Spider-Man 2,False,False,0.33077216,0.33077216
+Reincarnation,True,True,0.95489985,0.045100152
+Ghost Dog: The Way of the Samurai,False,False,0.043466996,0.043466996
+A Dog's Purpose,False,False,0.26429665,0.26429665
+Free Willy 3: The Rescue,False,False,0.0508741,0.0508741
+Irrational Man,False,False,0.19882439,0.19882439
+M,True,False,0.17160366,0.8283963
+Harbinger Down,True,False,0.2920796,0.70792043
+W.E.,True,True,0.8569519,0.14304811
+Joan of Arc,True,True,0.83982694,0.16017306
+Let Us Prey,True,False,0.43857372,0.5614263
+G.I. Joe: Retaliation,True,False,0.12635554,0.8736445
+Escape to Victory,False,False,0.014934005,0.014934005
+10 Rillington Place,False,False,0.30493844,0.30493844
+Frost/Nixon,False,False,0.17312826,0.17312826
+Octopussy,False,False,0.11394751,0.11394751
+Around the World in Eighty Days,False,False,0.18704838,0.18704838
+The Birdcage,False,True,0.6310013,0.6310013
+Desperado,False,False,0.086529665,0.086529665
+10 Things I Hate About You,True,True,0.97708696,0.022913039
+Baggage Claim,True,True,0.959697,0.040302992
+The Impossible Voyage,False,False,0.028606065,0.028606065
+Blue Hawaii,True,False,0.39667058,0.6033294
+Perfect Blue,True,True,0.9760408,0.02395922
+Mr. Nobody,False,False,0.39180428,0.39180428
+Go for Sisters,True,True,0.976824,0.023176014
+Saludos Amigos,False,False,0.14834145,0.14834145
+An Unexpected Love,True,True,0.99316484,0.0068351626
+"Batman: The Dark Knight Returns, Part 1",True,False,0.24227424,0.7577258
+The Crying Game,False,False,0.19506857,0.19506857
+Reclaim Your Brain,False,False,0.20287122,0.20287122
+Blue Is the Warmest Color,True,True,0.9797053,0.020294726
+Main Street,True,True,0.9618294,0.038170576
+Ordinary People,False,True,0.6521946,0.6521946
+On the Waterfront,False,False,0.1522466,0.1522466
+Revenge of the Bridesmaids,True,True,0.9267645,0.07323551
+The Lord of the Rings: The Return of the King,False,False,0.14710201,0.14710201
+Insidious: Chapter 2,False,True,0.9488941,0.9488941
+Safety Not Guaranteed,True,False,0.41608706,0.58391297
+Cry_Wolf,True,False,0.38108948,0.61891055
+Casi Divas,True,True,0.9796116,0.020388424
+Now and Then,True,True,0.9940959,0.0059040785
+Much Ado About Nothing,True,False,0.20540908,0.79459095
+City of Men,False,False,0.33019057,0.33019057
+Two Moon Junction,True,True,0.91935915,0.08064085
+The Marriage of Maria Braun,True,True,0.9024892,0.097510815
+The Boy in the Striped Pyjamas,True,False,0.059549037,0.94045097
+Of Mice and Men,False,True,0.8768092,0.8768092
+They Call Me Jeeg Robot,False,False,0.17672966,0.17672966
+Yi Yi,True,True,0.8070598,0.19294018
+Frau Müller muss weg!,True,False,0.38276622,0.61723375
+Mediterraneo,False,False,0.3935242,0.3935242
+Annie,True,True,0.9562214,0.0437786
+The Chronicles of Riddick,False,False,0.090187855,0.090187855
+The Mothman Prophecies,False,False,0.21637957,0.21637957
+Bob Roberts,False,False,0.19305696,0.19305696
+Little Miss Sunshine,True,True,0.98052084,0.019479156
+The Fan,False,False,0.23098682,0.23098682
+Behavior,True,True,0.9370452,0.06295478
+Under the Cherry Moon,True,True,0.8095692,0.19043082
+Dancer in the Dark,True,True,0.9717705,0.028229475
+As One,True,False,0.34331536,0.65668464
+Monkey Business,False,False,0.074994735,0.074994735
+The Iron Rose,False,True,0.709857,0.709857
+"Good Night, and Good Luck.",False,False,0.46102864,0.46102864
+Spa Night,True,True,0.5463918,0.4536082
+Price Check,True,False,0.33383512,0.6661649
+You Only Live Twice,False,False,0.30310953,0.30310953
+Häxan,True,False,0.3364577,0.6635423
+People Like Us,True,True,0.50524276,0.49475724
+Party Girl,True,True,0.9943131,0.005686879
+Impostor,False,False,0.06887535,0.06887535
+Vegas Vacation,True,True,0.9515653,0.048434675
+Police Academy 5: Assignment Miami Beach,False,False,0.13273017,0.13273017
+Kronos,False,False,0.11592798,0.11592798
+House II: The Second Story,True,True,0.9291144,0.0708856
+A Little Bit of Heaven,True,True,0.9895824,0.010417581
+I Don't Feel at Home in This World Anymore,True,True,0.92705315,0.07294685
+El Dorado,False,False,0.060011506,0.060011506
+Superman IV: The Quest for Peace,True,False,0.47283468,0.5271653
+Aliens vs Predator: Requiem,True,True,0.6798457,0.3201543
+50/50,False,False,0.24309851,0.24309851
+Petersburg: Only for Love,True,True,0.9090456,0.09095442
+Pieces of April,True,True,0.99275523,0.0072447658
+Rose Red,True,True,0.9486239,0.051376104
+I Want to Live!,True,True,0.9676801,0.032319903
+Cow Belles,True,True,0.9859098,0.01409018
+Godzilla 1985,False,False,0.16916259,0.16916259
+Valkyrie,False,True,0.56672806,0.56672806
+Leon: The Professional,True,False,0.24908036,0.75091964
+Thirteen Days,False,False,0.20138608,0.20138608
+Sky High,True,False,0.30362356,0.69637644
+Little Big Man,False,False,0.0913447,0.0913447
+The Perfect Score,True,True,0.5998514,0.40014857
+Valentine's Day,True,True,0.54116726,0.45883274
+Erased,False,False,0.21907294,0.21907294
+Primrose Path,True,True,0.955045,0.044955015
+Hush,True,True,0.96587414,0.034125865
+Grace Unplugged,True,True,0.9634634,0.036536574
+Annie,True,True,0.7458126,0.2541874
+Confidentially Yours,False,False,0.32941893,0.32941893
+Heartbeats,False,True,0.89015037,0.89015037
+Can't Buy Me Love,True,True,0.8329098,0.16709018
+Trading Mom,True,True,0.8796744,0.120325625
+The Miracle Worker,True,True,0.8914843,0.10851568
+La Dolce Vita,False,False,0.4830665,0.4830665
+And Then Came Lola,True,True,0.9920603,0.007939696
+Them!,False,False,0.30218703,0.30218703
+You're Sleeping Nicole,True,True,0.97540003,0.02459997
+Le Cercle Rouge,False,False,0.025934907,0.025934907
+Red Dragon,False,False,0.13552542,0.13552542
+The Prince of Egypt,True,False,0.27551997,0.72448003
+Clerks II,True,False,0.3007056,0.6992944
+Winter's Tale,True,True,0.8115746,0.18842542
+Jay and Silent Bob Strike Back,True,False,0.15263714,0.8473629
+Headhunters,False,False,0.17068148,0.17068148
+Michael,False,False,0.19485418,0.19485418
+The Importance of Being Earnest,True,False,0.31095225,0.68904775
+Inherent Vice,False,True,0.6796693,0.6796693
+An Education,True,True,0.98194444,0.018055558
+Honey,False,True,0.610542,0.610542
+Dead Silence,False,True,0.62767273,0.62767273
+I Could Never Be Your Woman,True,True,0.98937476,0.010625243
+Vera Drake,True,True,0.99615854,0.0038414598
+Mad About Mambo,False,True,0.6312427,0.6312427
+Evolution,False,True,0.84775543,0.84775543
+Smoke Signals,True,False,0.11085546,0.88914454
+Life or Something Like It,True,True,0.96126205,0.038737953
+District B13,False,False,0.27467838,0.27467838
+Marie Antoinette,True,True,0.9718298,0.028170228
+Hard Boiled,False,False,0.061658397,0.061658397
+Braveheart,False,False,0.3033824,0.3033824
+Chronicle,False,True,0.668293,0.668293
+Hard Rain,False,False,0.3926262,0.3926262
+Bhaji on the Beach,True,True,0.9561587,0.043841302
+El Norte,True,True,0.6307508,0.36924922
+Coneheads,True,True,0.59496146,0.40503854
+The Longest Ride,True,True,0.81610477,0.18389523
+Leaving Las Vegas,False,True,0.5031431,0.5031431
+The Tuxedo,False,False,0.1136694,0.1136694
+Sonic The Hedgehog: The Movie,False,True,0.68002015,0.68002015
+Nerve,True,True,0.868664,0.13133597
+Trumbo,True,False,0.14738439,0.8526156
+The Woman,True,True,0.81601363,0.18398637
+Dredd,True,True,0.8957424,0.10425758
+FernGully: The Last Rainforest,True,False,0.4099459,0.5900541
+Jumper,False,False,0.37863374,0.37863374
+Ivanhoe,False,False,0.044363014,0.044363014
+The Secret Life of Bees,True,True,0.9975007,0.0024992824
+The Straight Story,True,False,0.27891988,0.7210801
+Vampyros Lesbos,True,True,0.97251636,0.027483642
+Grey Gardens,True,True,0.98180676,0.018193245
+The First Wives Club,True,True,0.91844237,0.08155763
+Mr. Deeds,False,True,0.63278455,0.63278455
+Arranged,True,True,0.8777198,0.12228018
+Trading Places,False,False,0.2785719,0.2785719
+Lakeview Terrace,True,True,0.54609406,0.45390594
+Barbie and the Magic of Pegasus 3-D,True,True,0.9881805,0.011819482
+Isle of the Dead,True,True,0.9358497,0.064150274
+Frozen,False,True,0.8877258,0.8877258
+Yeh Jawaani Hai Deewani,True,True,0.563595,0.436405
+Maudie,True,True,0.93098533,0.06901467
+The Good Doctor,True,True,0.89042836,0.109571636
+Eight Below,False,False,0.15992442,0.15992442
+Home on the Range,True,True,0.6427336,0.35726643
+Point Break,False,False,0.18232754,0.18232754
+Elizabethtown,True,True,0.86154705,0.13845295
+The Mattei Affair,False,False,0.12727691,0.12727691
+The Switch,False,True,0.97962373,0.97962373
+The Magnificent Seven,False,False,0.05923796,0.05923796
+The 4th Floor,True,True,0.99159145,0.008408546
+The Cranes Are Flying,True,True,0.627975,0.372025
+The Legend of Tarzan,False,False,0.1752417,0.1752417
+Cradle 2 the Grave,False,False,0.43775204,0.43775204
+Radio Rebel,True,True,0.9908964,0.009103596
+The Hot Chick,True,True,0.9491568,0.05084318
+Blade: Trinity,True,False,0.22857776,0.77142227
+The Night Heaven Fell,True,True,0.8137306,0.1862694
+Straight Outta Compton,False,False,0.12076046,0.12076046
+New Dragon Gate Inn,True,False,0.40494487,0.5950551
+The Breed,False,False,0.2492354,0.2492354
+Top Five,True,False,0.47286564,0.52713436
+Quarantine 2: Terminal,True,True,0.84965533,0.15034467
+The Night of the Hunter,True,True,0.5702566,0.4297434
+The Living Playing Cards,False,False,0.06715603,0.06715603
+Up in the Air,False,False,0.24327318,0.24327318
+Throne of Blood,False,False,0.02765027,0.02765027
+Dawn of the Planet of the Apes,False,False,0.35074848,0.35074848
+Perrier’s Bounty,False,False,0.06121368,0.06121368
+No One Killed Jessica,True,True,0.9532314,0.046768606
+The Man from Beyond,False,False,0.0041396376,0.0041396376
+A Fish Called Wanda,True,False,0.34885803,0.651142
+Hitchcock,False,True,0.8477875,0.8477875
+Airport 1975,True,False,0.4263237,0.5736763
+Stella Dallas,True,True,0.94435245,0.055647552
+Big Girls Don't Cry,True,True,0.95494825,0.045051754
+The Most Dangerous Game,False,False,0.07243464,0.07243464
+Life As We Know It,True,True,0.9345905,0.06540948
+A Warm December,True,True,0.9623732,0.037626803
+The Butcher,False,True,0.5817615,0.5817615
+As Tears Go By,False,False,0.23736697,0.23736697
+Advantageous,True,True,0.9898342,0.010165811
+The Fundamentals of Caring,True,False,0.14994407,0.85005593
+Manos: The Hands of Fate,True,False,0.10664895,0.8933511
+Scarface,False,False,0.042408768,0.042408768
+Standing Ovation,True,True,0.9901362,0.009863794
+Harry Potter and the Chamber of Secrets,True,True,0.8876279,0.1123721
+Skylab,True,True,0.97826743,0.021732569
+Death Defying Acts,True,False,0.49833426,0.5016657
+Paper Towns,False,False,0.36210093,0.36210093
+Raiders of the Lost Ark,True,False,0.034566104,0.9654339
+Frozen River,True,False,0.35025063,0.6497494
+In the Line of Fire,False,False,0.19881062,0.19881062
+Friday After Next,False,False,0.30925888,0.30925888
+The Matador,False,False,0.24103954,0.24103954
+The Dam Busters,False,False,0.24066724,0.24066724
+Wild Oranges,False,False,0.4386124,0.4386124
+Madagascar,False,False,0.37276304,0.37276304
+Blame It on Rio,True,True,0.7235871,0.2764129
+The Belko Experiment,True,False,0.36938646,0.63061357
+Hell Comes to Frogtown,True,True,0.5248707,0.4751293
+The Shocking Miss Pilgrim,True,True,0.94776285,0.052237153
+Viva,True,True,0.96522087,0.03477913
+"They Shoot Horses, Don't They?",False,False,0.40817365,0.40817365
+The Eagle,False,False,0.12192571,0.12192571
+Other People's Money,True,False,0.47803533,0.52196467
+From Prada to Nada,True,True,0.9963476,0.0036523938
+Shirley Valentine,True,True,0.9737013,0.026298702
+The Expendables 3,False,False,0.2388547,0.2388547
+The Book Thief,True,True,0.9737031,0.026296914
+Cypher,False,False,0.36625814,0.36625814
+Going the Distance,True,True,0.7947934,0.20520657
+Pirates of the Caribbean: At World's End,True,False,0.08737691,0.9126231
+The Joy Luck Club,True,True,0.98556954,0.014430463
+Roman Holiday,True,True,0.95284975,0.047150254
+The Legend of Hell House,True,True,0.6346982,0.3653018
+Police Academy,True,False,0.068348326,0.93165165
+The Bridges of Madison County,True,True,0.89942694,0.10057306
+Mustang,True,True,0.9335596,0.0664404
+Lost Highway,False,False,0.041252475,0.041252475
+Get a Clue,True,True,0.9570077,0.042992294
+The Tourist,False,False,0.45085698,0.45085698
+Boxing Helena,False,True,0.9118515,0.9118515
+The Wave,True,False,0.10213169,0.89786834
+Saboteur,False,False,0.02242517,0.02242517
+Grand Hotel,True,True,0.55628556,0.44371444
+New Waterford Girl,True,True,0.99094,0.009060025
+Other People,True,True,0.8438501,0.15614992
+I Bury the Living,False,False,0.31385377,0.31385377
+Legend of the Red Dragon,True,False,0.2910319,0.7089681
+Tinker Tailor Soldier Spy,False,False,0.08702953,0.08702953
+Oranges and Sunshine,True,True,0.974755,0.02524501
+Desperate Living,True,True,0.93891484,0.061085165
+Boys on the Side,True,True,0.8938491,0.106150925
+Horns,True,False,0.11441249,0.8855875
+The Condemned,False,False,0.08274791,0.08274791
+"Ladies and Gentlemen, the Fabulous Stains",True,True,0.9725653,0.027434707
+We're the Millers,True,True,0.5319488,0.4680512
+Buffy the Vampire Slayer,True,True,0.96591926,0.034080744
+The Magnificent Seven,False,False,0.22053361,0.22053361
+The Graduate,False,False,0.48135388,0.48135388
+Iron Eagle,False,False,0.015592648,0.015592648
+The Losers,False,False,0.2459678,0.2459678
+Housekeeping,True,True,0.9976035,0.002396524
+A Night at the Opera,False,False,0.29668584,0.29668584
+El Topo,False,False,0.10163633,0.10163633
+The Number 23,False,False,0.21151617,0.21151617
+Zodiac,False,False,0.37021068,0.37021068
+Interview with the Vampire,False,False,0.26109144,0.26109144
+Shoot 'Em Up,False,False,0.22417092,0.22417092
+Red Like the Sky,False,False,0.16027461,0.16027461
+Biutiful,False,False,0.16358742,0.16358742
+Dirty 30,True,True,0.9821842,0.017815828
+Revolutionary Road,True,True,0.7806627,0.21933728
+The Shawshank Redemption,False,False,0.33327007,0.33327007
+Lovesong,True,True,0.9530301,0.04696989
+Sonatine,False,False,0.11611097,0.11611097
+Stella Maris,True,True,0.77853477,0.22146523
+The Green Butchers,False,True,0.58496046,0.58496046
+Let It Ride,False,False,0.08259637,0.08259637
+Win Win,True,False,0.15190446,0.84809554
+SAGA: Curse of the Shadow,False,False,0.14507046,0.14507046
+On the Town,True,False,0.30627042,0.6937296
+Getting Any?,False,False,0.26227564,0.26227564
+Alien Tornado,True,True,0.8011629,0.1988371
+One Man Up,False,False,0.35662243,0.35662243
+Undead,True,False,0.40699625,0.59300375
+Knowing,False,True,0.8810998,0.8810998
+Shag,True,True,0.9332604,0.06673962
+Female Trouble,True,True,0.9963637,0.0036363006
+Eagle vs Shark,True,True,0.68329054,0.31670946
+Beethoven,True,False,0.18889058,0.8111094
+Leap Year,True,True,0.90430987,0.09569013
+Kiss the Girls,False,True,0.96981096,0.96981096
+The Burning Plain,True,True,0.51044226,0.48955774
+Spotlight,False,True,0.9560254,0.9560254
+Read My Lips,True,True,0.56095064,0.43904936
+The Butcher's Wife,True,True,0.8747256,0.12527442
+Le Samouraï,False,False,0.027809376,0.027809376
+Addams Family Values,True,True,0.92719895,0.07280105
+Circle of Friends,True,True,0.79374075,0.20625925
+An Affair to Remember,False,True,0.8335421,0.8335421
+Buffalo Running,False,False,0.013972551,0.013972551
+After Hours,False,False,0.48632672,0.48632672
+Burning Sands,False,False,0.45525312,0.45525312
+Tammy and the Bachelor,True,True,0.9331714,0.06682861
+Friday the 13th Part VI: Jason Lives,True,True,0.60275555,0.39724445
+Final Destination,False,False,0.41027558,0.41027558
+The Star Wars Holiday Special,False,False,0.4244416,0.4244416
+Mean Girls 2,True,True,0.9963812,0.0036187768
+Pieces,False,False,0.36413106,0.36413106
+Gantz,False,True,0.68604106,0.68604106
+The Secret,True,True,0.9926179,0.007382095
+Death Wish,True,False,0.09146713,0.90853286
+Cloudy with a Chance of Meatballs,False,True,0.5201946,0.5201946
+Steam,True,True,0.9642531,0.035746872
+Everything Must Go,False,False,0.12846875,0.12846875
+Eega,False,False,0.24425134,0.24425134
+Hideaway (Le refuge),True,True,0.86367273,0.13632727
+Hannah and Her Sisters,True,True,0.9782924,0.021707594
+T2 Trainspotting,True,False,0.108909324,0.8910907
+House of Games,True,False,0.3633849,0.6366151
+Tinker Bell and the Lost Treasure,True,True,0.94000685,0.059993148
+Polisse,True,True,0.50544363,0.49455637
+Jack the Giant Slayer,False,False,0.15501814,0.15501814
+Reaching for the Moon,True,True,0.8921982,0.107801795
+Cursed,True,False,0.44405925,0.55594075
+Donnie Darko,True,False,0.17394622,0.8260538
+The Meaning of Life,False,False,0.15118353,0.15118353
+21 Jump Street,False,True,0.54196894,0.54196894
+Trophy Wife,True,True,0.983732,0.016268015
+Rings,False,True,0.51840657,0.51840657
+Journey to Italy,True,True,0.5640914,0.43590862
+Tremors 3: Back to Perfection,True,False,0.46989706,0.53010297
+Henry V,True,False,0.14532146,0.8546785
+The Great Ziegfeld,True,False,0.26241615,0.7375839
+The Phoenix Project,False,True,0.65927815,0.65927815
+She,False,True,0.95527977,0.95527977
+The Marine,True,False,0.21689555,0.7831044
+Odd Thomas,True,False,0.074415855,0.92558414
+The Mummy,False,False,0.29540005,0.29540005
+Ip Man 3,False,False,0.22486699,0.22486699
+The Terminal,False,False,0.07251119,0.07251119
+The Tall Man,True,True,0.74854827,0.25145173
+Parallels,True,False,0.17523429,0.8247657
+The Covenant,True,False,0.2582934,0.7417066
+Batman Unlimited: Animal Instincts,False,False,0.19427927,0.19427927
+Jamie and Jessie Are Not Together,True,True,0.97763413,0.022365868
+Zulu,False,False,0.047357213,0.047357213
+The Inbetweeners 2,False,True,0.85996705,0.85996705
+The Dark House,False,False,0.115764104,0.115764104
+Higher Ground,True,True,0.9869011,0.013098896
+Conversations with My Gardener,False,True,0.6286978,0.6286978
+Blood Diamond,False,False,0.25210923,0.25210923
+The Ant Bully,False,False,0.39388663,0.39388663
+Wild Orchid,True,True,0.94353145,0.056468546
+Tamara Drewe,True,True,0.9730886,0.026911378
+A Marine Story,True,True,0.90753096,0.09246904
+Dirty Rotten Scoundrels,False,True,0.59769917,0.59769917
+Phoenix,True,True,0.55567724,0.44432276
+Free Willy 2 - The Adventure Home,True,False,0.17326394,0.8267361
+The Longest Day,False,False,0.112170964,0.112170964
+Star Wars: Episode II - Attack of the Clones,True,False,0.3687244,0.6312756
+The Nameless,True,True,0.98192596,0.018074036
+The Bostonians,True,True,0.85112834,0.14887166
+Charlie's Angels: Full Throttle,True,False,0.23861137,0.76138866
+Ju-on: The Curse,True,True,0.8181827,0.1818173
+Evangelion: 2.0 You Can (Not) Advance,True,True,0.7854322,0.21456778
+Band Aid,True,True,0.7380554,0.2619446
+Middle School: The Worst Years of My Life,True,True,0.59284526,0.40715474
+The Best Exotic Marigold Hotel,True,True,0.8963476,0.10365242
+Moonstruck,True,True,0.94791263,0.052087367
+Wayne's World,False,False,0.29565424,0.29565424
+Se7en,False,False,0.40091625,0.40091625
+She Done Him Wrong,False,True,0.7911258,0.7911258
+The Legend of Barney Thomson,True,False,0.24611701,0.753883
+Takers,False,False,0.11441111,0.11441111
+The Age of Innocence,True,True,0.8962735,0.103726506
+Resident Evil: Retribution,True,True,0.9628237,0.03717631
+Ivan's Childhood,False,False,0.12184618,0.12184618
+Fighting,False,False,0.034821365,0.034821365
+Arachnoquake,True,False,0.41800708,0.5819929
+The Day the Earth Stood Still,True,False,0.3663111,0.6336889
+An American in Rome,False,False,0.19016553,0.19016553
+American Pie,False,True,0.73438215,0.73438215
+The Pianist,False,False,0.09956878,0.09956878
+Final Destination 5,False,True,0.6571748,0.6571748
+Barbie in A Mermaid Tale,True,True,0.99229217,0.0077078342
+Batman: Mask of the Phantasm,False,False,0.30784723,0.30784723
+Princess Mononoke,True,False,0.45168474,0.5483153
+Dirty Grandpa,False,False,0.19441296,0.19441296
+Don't Breathe,True,True,0.6260967,0.37390327
+It Takes Two,False,True,0.9798996,0.9798996
+Finsterworld,False,False,0.4853631,0.4853631
++1,True,True,0.77008384,0.22991616
+Tea with Mussolini,True,True,0.5041933,0.4958067
+A Royal Night Out,True,True,0.98538244,0.014617562
+Gregory's Girl,True,True,0.939386,0.06061399
+Suicide Squad,True,False,0.41360193,0.58639807
+GoodFellas,True,False,0.4906666,0.5093334
+Electrick Children,True,True,0.9875596,0.012440383
+Victor/Victoria,True,True,0.9709736,0.02902639
+Not Fade Away,True,True,0.81261575,0.18738425
+Starbuck,False,False,0.3290865,0.3290865
+The Prisoner,False,False,0.03565736,0.03565736
+Any Which Way You Can,False,False,0.086522564,0.086522564
+The Best Offer,False,False,0.3402161,0.3402161
+Foxcatcher,False,False,0.31619036,0.31619036
+Yossi & Jagger,False,False,0.36369187,0.36369187
+10 Cloverfield Lane,True,True,0.97887254,0.021127462
+Kon-Tiki,False,False,0.2112001,0.2112001
+A Guide To Recognizing Your Saints,False,True,0.788064,0.788064
+Motorama,False,True,0.80062604,0.80062604
+Dear White People,True,True,0.6835063,0.3164937
+The Girl on the Train,True,True,0.97878385,0.021216154
+Girl Walks Into a Bar,True,True,0.99188954,0.008110464
+Four Brothers,False,True,0.8065744,0.8065744
+The Hunter,True,False,0.11014283,0.8898572
+Mission: Impossible - Ghost Protocol,False,False,0.18352635,0.18352635
+I Am a Fugitive from a Chain Gang,False,False,0.1432276,0.1432276
+Sleeping Beauty,True,True,0.96925896,0.030741036
+8½,True,False,0.42439365,0.57560635
+Kingdom of Heaven,False,False,0.16882965,0.16882965
+Alien³,False,True,0.70275795,0.70275795
+The Curse of the Werewolf,True,False,0.16245893,0.8375411
+The 33,True,False,0.20753556,0.79246444
+God Help the Girl,True,True,0.98142505,0.018574953
+Dinosaur,True,True,0.70630944,0.29369056
+Gothika,True,True,0.99098563,0.009014368
+Resident Evil: The Final Chapter,True,True,0.9803996,0.019600391
+12 Angry Men,False,False,0.29178646,0.29178646
+Red Riding Hood,True,True,0.9520422,0.047957778
+Unleashed,False,False,0.15634784,0.15634784
+Howling II: Stirba - Werewolf Bitch,False,True,0.96466565,0.96466565
+Van Helsing,True,False,0.2414873,0.75851274
+The Sisterhood of the Traveling Pants 2,True,True,0.99313253,0.0068674684
+Escape from Segovia,False,False,0.08425096,0.08425096
+Metropolis,False,False,0.035751645,0.035751645
+Rubin and Ed,False,False,0.15593772,0.15593772
+Cosmopolis,False,False,0.25643823,0.25643823
+Hamlet 2,True,True,0.9779413,0.022058725
+A Doll's House,True,True,0.96511644,0.03488356
+The Vagabond,False,True,0.6578072,0.6578072
+2 Days in the Valley,True,True,0.7522239,0.24777609
+Feds,True,True,0.8632679,0.1367321
+Hit & Run,True,False,0.29921743,0.70078254
+The Parent Trap,True,True,0.90903896,0.09096104
+Greetings from Tim Buckley,False,False,0.46789944,0.46789944
+Wuthering Heights,False,False,0.4379741,0.4379741
+Windtalkers,False,False,0.36770427,0.36770427
+Batman Begins,False,False,0.31774604,0.31774604
+Blacksmith Scene,False,False,0.018820098,0.018820098
+Sabrina the Teenage Witch,True,True,0.9934082,0.006591797
+Albino Farm,True,False,0.49273753,0.50726247
+Taken 3,False,False,0.24068473,0.24068473
+Gandhi,False,False,0.1988366,0.1988366
+Barefoot in the Park,True,True,0.6179022,0.38209778
+Dark Angel,False,False,0.07495867,0.07495867
+Dracula: Pages from a Virgin's Diary,False,True,0.78867966,0.78867966
+Kahaani,True,True,0.91325194,0.08674806
+Chinatown,False,True,0.9042637,0.9042637
+Would You Rather,True,True,0.91382515,0.086174846
+I Sell The Dead,False,False,0.16605511,0.16605511
+McLintock!,True,True,0.87972414,0.120275855
+Torment,False,True,0.84582186,0.84582186
+Fast Girls,True,True,0.94555664,0.05444336
+Stuart Little,False,True,0.59492713,0.59492713
+Paths of Glory,False,False,0.10818529,0.10818529
+Absentia,True,True,0.9720267,0.027973294
+A Chump at Oxford,False,False,0.18262361,0.18262361
+Out of the Past,False,False,0.3983029,0.3983029
+Lady Sings the Blues,True,True,0.90753114,0.09246886
+Zatoichi,False,False,0.0773449,0.0773449
+The Vampire Bat,True,False,0.17197469,0.82802534
+Mädchen in Uniform,True,True,0.8558595,0.14414048
+Cinema Paradiso,False,False,0.42243928,0.42243928
+Stagecoach,True,False,0.41038346,0.58961654
+The Man from Laramie,False,False,0.01614382,0.01614382
+The Celluloid Closet,True,True,0.62589985,0.37410015
+Shallow Hal,True,True,0.8405301,0.1594699
+Avatar 2,True,True,0.83776283,0.16223717
+Saving Private Ryan,False,False,0.24332483,0.24332483
+Hope Floats,True,True,0.9727544,0.027245581
+Room in Rome,True,True,0.9769002,0.02309978
+Tinker Bell and the Pirate Fairy,True,False,0.2555759,0.7444241
+The Host,True,True,0.98527455,0.014725447
+The Expendables 2,True,False,0.2000002,0.79999983
+Mississippi Mermaid,True,True,0.7693032,0.2306968
+Romeo + Juliet,True,True,0.7440627,0.25593728
+The Secret of My Success,False,True,0.55699205,0.55699205
+They Call Me Trinity,False,False,0.25662354,0.25662354
+Melody Time,False,False,0.11456922,0.11456922
+Serial Mom,True,True,0.9824133,0.017586708
+The Sky Crawlers,True,False,0.2573648,0.7426352
+The Punk Singer,True,True,0.85670626,0.14329374
+Seven Years in Tibet,False,False,0.03243539,0.03243539
+Pink Flamingos,True,True,0.83788335,0.16211665
+The Navigator,False,False,0.08014002,0.08014002
+Finding Dory,True,True,0.94989294,0.050107062
+Tru Confessions,True,True,0.9895802,0.010419786
+Late Chrysanthemums,True,True,0.98137444,0.018625557
+Good News,False,False,0.32177186,0.32177186
+Barbie: Fairytopia,True,True,0.9809155,0.019084513
+Touchy Feely,True,True,0.83796954,0.16203046
+Aparajito,True,False,0.25832424,0.74167573
+Avalanche,False,True,0.69103086,0.69103086
+The Intouchables,False,False,0.14145856,0.14145856
+Matango: Attack of the Mushroom People,True,False,0.452207,0.54779303
+Love & Air Sex,True,True,0.70734215,0.29265785
+The Basketball Diaries,False,False,0.2709848,0.2709848
+Boy Eats Girl,False,True,0.8618173,0.8618173
+My Girl,True,True,0.95261663,0.047383368
+Ghostbusters II,False,True,0.93864083,0.93864083
+Dogma,True,False,0.19180489,0.8081951
+Tarzan's Magic Fountain,False,False,0.49759856,0.49759856
+Death and the Maiden,False,True,0.9617159,0.9617159
+Birdemic: Shock and Terror,True,True,0.73173636,0.26826364
+I Confess,False,False,0.17742178,0.17742178
+The Trip,False,True,0.5638322,0.5638322
+Ghost Rider,False,False,0.12142601,0.12142601
+The Negotiator,False,False,0.09232103,0.09232103
+The Awful Truth,True,True,0.82541907,0.17458093
+New Nightmare,True,True,0.80823594,0.19176406
+Ice Age: Collision Course,True,False,0.4240336,0.57596636
+A New Leaf,True,False,0.28728274,0.7127173
+Star Trek V: The Final Frontier,False,False,0.1557269,0.1557269
+Original Sin,False,False,0.3118569,0.3118569
+UMMAH - Unter Freunden,False,False,0.37232026,0.37232026
+Austin Powers: The Spy Who Shagged Me,False,False,0.27991116,0.27991116
+Step Up 2: The Streets,True,True,0.9783562,0.021643817
+Sophie's Choice,True,True,0.78305644,0.21694356
+Five Easy Pieces,True,False,0.14136276,0.8586372
+Coherence,True,True,0.5222402,0.47775978
+"Me, Myself & Irene",False,True,0.5043606,0.5043606
+Bride of Frankenstein,True,True,0.63456935,0.36543065
+Enron: The Smartest Guys in the Room,False,False,0.4822528,0.4822528
+No Way Out,True,False,0.11294112,0.88705885
+The Hunchback of Notre Dame II,False,False,0.10440888,0.10440888
+The Adjustment Bureau,True,False,0.23087992,0.7691201
+The Bourne Identity,False,False,0.27632725,0.27632725
+Rabbit-Proof Fence,True,True,0.92091656,0.07908344
+Gremlins,False,False,0.043878913,0.043878913
+Vampyr,True,False,0.164159,0.835841
+Raising Arizona,True,True,0.73049927,0.26950073
+Taken,True,True,0.6044294,0.39557058
+The Giant Mechanical Man,True,False,0.08356121,0.9164388
+The Lucky Ones,True,False,0.43910095,0.560899
+National Velvet,True,True,0.72291356,0.27708644
+All the Way Boys,False,False,0.08387655,0.08387655
+Deep Impact,True,False,0.35283634,0.6471636
+Monsters,False,True,0.80134666,0.80134666
+The Strange Woman,True,True,0.96212786,0.037872136
+Critters,False,True,0.8390376,0.8390376
+Amiche da morire,True,True,0.9487506,0.051249385
+Home,True,True,0.9531519,0.04684812
+"Like Sunday, Like Rain",True,False,0.30040577,0.69959426
+Tallulah,True,True,0.99390584,0.0060941577
+Speedway,True,False,0.095878154,0.9041219
+House at the End of the Street,True,True,0.99346054,0.006539464
+Experimenter,False,False,0.38123912,0.38123912
+The Taking of Pelham 1 2 3,False,False,0.24139231,0.24139231
+Six Days Seven Nights,False,False,0.43144158,0.43144158
+I Am Number Four,False,False,0.2829754,0.2829754
+Just One of the Guys,True,True,0.904183,0.09581703
+Dabangg 2,False,False,0.1641807,0.1641807
+Scary Movie,True,True,0.9667523,0.03324771
+Cecil B. Demented,True,True,0.7798603,0.22013968
+The Revenant,False,False,0.08920353,0.08920353
+The End,True,True,0.6859893,0.31401068
+Orgazmo,False,False,0.45171532,0.45171532
+Amarcord,False,True,0.6873559,0.6873559
+The Borrowers,True,True,0.6058404,0.39415962
+The Maltese Falcon,False,False,0.10832747,0.10832747
+Queen Christina,True,True,0.8785495,0.121450484
+Hellbound: Hellraiser II,False,True,0.85908145,0.85908145
+How to Murder Your Wife,False,True,0.7488761,0.7488761
+Santa Who?,False,False,0.30289173,0.30289173
+44 Inch Chest,False,False,0.29832244,0.29832244
+War for the Planet of the Apes,False,False,0.14412442,0.14412442
+Broken Embraces,True,False,0.101666264,0.8983337
+Raise the Red Lantern,True,True,0.7834006,0.2165994
+Untamed Heart,True,False,0.4788402,0.52115977
+Lust for Love,True,True,0.50713795,0.49286205
+Blessed,True,True,0.8798528,0.12014723
+Love Songs,True,True,0.5071101,0.49288988
+Barbie: Princess Charm School,True,True,0.9961392,0.0038607717
+High Fidelity,False,False,0.33311233,0.33311233
+Desperately Seeking Susan,True,True,0.93772423,0.062275767
+Two Sisters From Boston,True,True,0.9952781,0.00472188
+A Star Is Born,False,True,0.89438605,0.89438605
+Bedknobs and Broomsticks,True,True,0.9170183,0.082981706
+Martha Marcy May Marlene,True,True,0.98439896,0.015601039
+Detective,False,False,0.09951507,0.09951507
+Men of War,False,False,0.024323925,0.024323925
+Howl,False,True,0.7627608,0.7627608
+The Fish Child,True,True,0.90950507,0.09049493
+I Spit on Your Grave,False,True,0.9356947,0.9356947
+TMNT,False,False,0.49017283,0.49017283
+The Smurfs 2,True,True,0.85457367,0.14542633
+Finding Bliss,True,True,0.9644604,0.035539627
+8 Mile,False,False,0.25612772,0.25612772
+Dressed to Kill,True,True,0.5716866,0.42831337
+Poltergeist,True,False,0.47748938,0.52251065
+The Dreamlife of Angels,True,True,0.9542492,0.045750797
+La La Land,True,True,0.87272924,0.12727076
+Save the Last Dance,True,True,0.6975223,0.30247772
+The Magic of Ordinary Days,True,True,0.98935485,0.010645151
+American Beauty,True,True,0.954062,0.045938015
+It's a Gift,True,True,0.5767656,0.4232344
+Hope and Glory,True,False,0.19734888,0.8026511
+Greenberg,False,False,0.47438824,0.47438824
+Death at a Funeral,True,True,0.66341466,0.33658534
+The Avengers,False,False,0.46881017,0.46881017
+The Fate of the Furious,True,True,0.8724852,0.12751478
+My Man Godfrey,False,False,0.17733873,0.17733873
+Wish Upon,True,True,0.94742584,0.052574158
+Crashing,False,True,0.7691521,0.7691521
+A Separation,True,True,0.8935233,0.106476724
+Magnolia,True,True,0.94760907,0.052390933
+Dear Wendy,False,False,0.48104626,0.48104626
+The Evil Dead,False,True,0.67513883,0.67513883
+FernGully 2: The Magical Rescue,True,False,0.47590986,0.5240902
+Ocean's Eleven,False,False,0.08519779,0.08519779
+The Lorax,False,True,0.5154464,0.5154464
+Deep Cover,False,False,0.034608163,0.034608163
+Walking Vengeance,True,True,0.6970734,0.3029266
+Import/Export,True,True,0.53646207,0.46353793
+Shelter,True,True,0.9552985,0.044701517
+Howards End,True,True,0.89662075,0.10337925
+The Mists of Avalon,True,True,0.72607243,0.27392757
+Tangled,True,False,0.3951579,0.60484207
+Titli,False,False,0.052460514,0.052460514
+The Jane Austen Book Club,True,True,0.7958778,0.20412219
+Ender's Game,False,True,0.78347015,0.78347015
+The Jolson Story,False,False,0.24247503,0.24247503
+Rodan,False,False,0.06563096,0.06563096
+Titan A.E.,True,False,0.3554655,0.64453447
+Planet 51,False,False,0.18875346,0.18875346
+The Returned,True,True,0.8095402,0.19045979
+The Wolf Man,False,False,0.08286144,0.08286144
+Harry Potter and the Order of the Phoenix,True,False,0.3542037,0.6457963
+Pocahontas II: Journey to a New World,True,False,0.4938854,0.5061146
+The Mother,True,True,0.9885529,0.011447072
+Hell,True,True,0.90851086,0.091489136
+Summer Things,True,True,0.88134384,0.11865616
+Underworld: Rise of the Lycans,False,True,0.6175384,0.6175384
+Child's Pose,True,True,0.9661464,0.03385359
+Diva,False,True,0.7372101,0.7372101
+On Tour,True,False,0.35987678,0.64012325
+Kids Return,True,True,0.63762975,0.36237025
+Dodes'ka-den,True,False,0.122542635,0.8774574
+The Spy Who Loved Me,False,False,0.36839372,0.36839372
+Beverly Hills Cop III,False,False,0.24363041,0.24363041
+Kidulthood,True,True,0.84189653,0.15810347
+Green Street Hooligans,False,False,0.3417398,0.3417398
+Pretty Baby,False,True,0.98498106,0.98498106
+Naughty Marietta,True,True,0.6178297,0.38217032
+The Words,False,True,0.6430738,0.6430738
+Nightbreed,True,False,0.19174892,0.8082511
+Hara-Kiri: Death of a Samurai,False,False,0.4395371,0.4395371
+Šíleně smutná princezna,False,True,0.52144957,0.52144957
+Ocean's Twelve,False,False,0.22556126,0.22556126
+Courageous,True,True,0.564232,0.435768
+Blacula,True,True,0.6395927,0.3604073
+The Hobbit: The Desolation of Smaug,True,False,0.35119787,0.64880216
+Black Sea,False,False,0.159324,0.159324
+The Misfits,True,False,0.41050285,0.58949715
+Celebrity,True,True,0.7381092,0.26189083
+Chain Reaction,False,False,0.32725975,0.32725975
+The Simpsons Movie,True,True,0.6504244,0.34957558
+The Transporter,False,False,0.37637398,0.37637398
+The Double,False,True,0.7564318,0.7564318
+Newsies,False,True,0.6679967,0.6679967
+Happy Endings,True,True,0.9813933,0.018606722
+A Taste of Honey,True,True,0.95974874,0.040251255
+Matilda,True,True,0.9907927,0.009207308
+The 400 Blows,False,False,0.09292337,0.09292337
+Watchmen,True,False,0.28907984,0.71092016
+In the Loop,True,False,0.4141678,0.58583224
+"Jeanne Dielman, 23, Quai du Commerce 1080 Bruxelles",True,True,0.9951739,0.0048261285
+Balto III: Wings of Change,True,False,0.44965914,0.5503409
+The Illusionist,False,False,0.35552934,0.35552934
+Analyze This,False,False,0.31367865,0.31367865
+Soapdish,True,True,0.97926235,0.020737648
+Vacancy,False,True,0.80090386,0.80090386
+Barbershop: The Next Cut,True,True,0.6855034,0.31449658
+Batman & Robin,False,False,0.4142257,0.4142257
+Anatomy of a Murder,False,False,0.31367698,0.31367698
+WarGames,False,False,0.13108018,0.13108018
+Mrs. Doubtfire,True,True,0.9506043,0.04939568
+Unfriended,True,True,0.9105426,0.08945739
+Lost in Space,True,True,0.52333647,0.47666353
+I Am Twenty,True,False,0.11271231,0.8872877
+The Greatest Show on Earth,False,False,0.3049388,0.3049388
+Waterworld,False,True,0.6234025,0.6234025
+Half Baked,False,False,0.47418287,0.47418287
+Battle in Outer Space,False,False,0.04338008,0.04338008
+Convoy,False,True,0.6557782,0.6557782
+I Was a Male War Bride,False,True,0.727644,0.727644
+Frankenstein,False,False,0.074196495,0.074196495
+Earth Girls Are Easy,False,True,0.91499925,0.91499925
+Essential Killing,False,False,0.054228537,0.054228537
+Open Your Eyes,False,False,0.099638015,0.099638015
+The Hudsucker Proxy,False,False,0.105331264,0.105331264
+The Italian Job,False,False,0.022974795,0.022974795
+A Perfect Getaway,True,True,0.6687697,0.33123028
+Ruthless People,True,False,0.17205462,0.82794535
+Groundhog Day,False,False,0.122601435,0.122601435
+We Are What We Are,True,False,0.40263999,0.59736
+Lucia,True,False,0.26373702,0.736263
+Dead Ringer,True,True,0.925625,0.074374974
+Bagdad Cafe,True,True,0.61246073,0.38753927
+My Best Girl,True,True,0.8338581,0.16614193
+A Happy Event,True,True,0.98950887,0.010491133
+Hatari!,True,False,0.46722332,0.5327767
+Sugar & Spice,True,True,0.9190599,0.08094013
+Hairspray,True,True,0.9839565,0.016043484
+Southland Tales,True,True,0.5232566,0.4767434
+Extremis,True,True,0.538425,0.46157497
+Your Sister's Sister,True,True,0.9843848,0.015615225
+Year of the Carnivore,True,True,0.5632953,0.4367047
+Score: A Hockey Musical,False,True,0.54851913,0.54851913
+The Hot Flashes,True,True,0.9959494,0.0040506124
+Star Wars: The Force Awakens,True,False,0.4201092,0.5798908
+The Rabbi's Cat,True,True,0.86444235,0.13555765
+The Contender,False,True,0.7046703,0.7046703
+Sixteen Candles,True,True,0.95924026,0.040759742
+Bronson,False,False,0.087442875,0.087442875
+The Great White Silence,False,False,0.010529633,0.010529633
+Logan,True,False,0.44901222,0.5509878
+Gamera vs. Gyaos,False,False,0.3334242,0.3334242
+Team America: World Police,False,False,0.1547149,0.1547149
+Fair Game,True,True,0.98299396,0.01700604
+Tinker Bell and the Legend of the NeverBeast,True,True,0.7704471,0.22955292
+The Duellists,False,False,0.15174367,0.15174367
+The A-Team,False,False,0.103809364,0.103809364
+The Pirates! In an Adventure with Scientists!,False,False,0.21532851,0.21532851
+Thoroughly Modern Millie,True,True,0.9183591,0.0816409
+Carefree,False,True,0.72963226,0.72963226
+The Whisperer in Darkness,False,False,0.40329024,0.40329024
+Jaws 2,False,False,0.069373704,0.069373704
+Lost in Translation,True,True,0.8718419,0.12815809
+"I, Daniel Blake",True,True,0.7065217,0.2934783
+Cheap Thrills,False,False,0.32071888,0.32071888
+Under the Skin,False,True,0.66807747,0.66807747
+"Sex, Lies, and Videotape",False,True,0.9803249,0.9803249
+All About My Mother,True,True,0.9752079,0.024792075
+Family Weekend,True,True,0.9866651,0.01333487
+City of God,False,False,0.35720512,0.35720512
+Mortuary,True,True,0.83361626,0.16638374
+The Wedding Planner,True,True,0.8893069,0.1106931
+My Sister's Keeper,True,True,0.93506193,0.06493807
+Les Misérables,True,True,0.5512544,0.4487456
+The Stepford Wives,True,True,0.9685214,0.031478584
+The Man Who Fell to Earth,False,False,0.08842147,0.08842147
+The Truth About Cats & Dogs,True,True,0.9502707,0.049729288
+The Manchurian Candidate,False,False,0.33843088,0.33843088
+The Maids,True,True,0.97177935,0.028220654
+Pink Saris,True,True,0.705048,0.29495198
+The Princess Diaries 2: Royal Engagement,True,True,0.9949655,0.0050345063
+The Sorcerer and the White Snake,True,True,0.6959471,0.3040529
+Rough Night,True,True,0.72968227,0.27031773
+Rudolph the Red-Nosed Reindeer,False,False,0.38020325,0.38020325
+Far and Away,True,False,0.16153745,0.83846253
+Maniac,True,False,0.10051204,0.899488
+After Sex,True,True,0.8606495,0.13935047
+Vanishing Waves,False,False,0.29156062,0.29156062
+The Enemy Below,False,False,0.07582058,0.07582058
+Below,False,False,0.108334854,0.108334854
+Hair,True,False,0.26421234,0.73578763
+Dark Star,False,False,0.42964953,0.42964953
+Best Defense,False,False,0.18810752,0.18810752
+When Animals Dream,False,True,0.99800724,0.99800724
+Little Children,True,True,0.85188776,0.14811224
+Werewolves on Wheels,False,True,0.7057889,0.7057889
+Inherit the Wind,True,False,0.29173538,0.7082646
+The Hunger,True,True,0.9450316,0.054968417
+Norma Rae,True,True,0.9613526,0.038647413
+Restrepo,False,False,0.15303084,0.15303084
+Sidewalk Stories,False,True,0.98432136,0.98432136
+The Band of Honest Men,False,False,0.18750864,0.18750864
+The Devil's Advocate,True,False,0.112516895,0.8874831
+Thirst,True,False,0.25299916,0.7470008
+I Am Love,True,True,0.95348734,0.046512663
+P.S. I Love You,True,True,0.9722645,0.027735472
+Jellyfish,True,True,0.9727946,0.027205408
+4.3.2.1,True,True,0.92834264,0.07165736
+The Hard Corps,True,False,0.27163437,0.72836566
+Frankie and Johnny,False,True,0.5589048,0.5589048
+Ego,False,False,0.051834427,0.051834427
+Scary Godmother: Halloween Spooktakular,True,True,0.9977622,0.0022377968
+Friday the 13th: The Final Chapter,True,False,0.12977667,0.87022334
+The Cave of the Yellow Dog,True,True,0.8013581,0.1986419
+Ritual,False,True,0.8839625,0.8839625
+Unforgiven,True,False,0.44885156,0.5511484
+Happiness,True,False,0.32443133,0.6755687
+Home Alone,True,True,0.5420872,0.4579128
+Chopper Chicks in Zombietown,True,True,0.7815978,0.2184022
+Make Mine Music,False,False,0.34346572,0.34346572
+Spy Hard,False,False,0.14736752,0.14736752
+Flower Drum Song,False,True,0.9157968,0.9157968
+Me Without You,True,True,0.8786056,0.121394396
+The Perks of Being a Wallflower,True,False,0.3585918,0.6414082
+Tickets,False,True,0.9034073,0.9034073
+State of Emergency,False,False,0.45342585,0.45342585
+Ed Wood,True,False,0.24088344,0.75911653
+The Informant!,False,False,0.085523546,0.085523546
+A Royal Affair,True,True,0.97699934,0.023000658
+Murmur of the Heart,False,True,0.60390353,0.60390353
+20 Feet from Stardom,True,True,0.7130291,0.2869709
+I Know Where I'm Going!,True,True,0.97360885,0.026391149
+La Femme Nikita,True,True,0.6520262,0.34797382
+Mr. Vampire,False,False,0.41736773,0.41736773
+Shortbus,True,True,0.8347887,0.16521132
+The Jacket,False,False,0.16658817,0.16658817
+The Hitch-Hiker,False,False,0.057362765,0.057362765
+The Quiet Earth,False,False,0.25931916,0.25931916
+North by Northwest,False,False,0.14504495,0.14504495
+Puccini for Beginners,True,True,0.87655455,0.12344545
+Taking Woodstock,False,False,0.30095392,0.30095392
+Heaven Can Wait,True,False,0.103337824,0.8966622
+Futurama: Bender's Game,False,True,0.6492681,0.6492681
+Picture Perfect,True,True,0.9252846,0.074715376
+Indiscreet,True,True,0.81609726,0.18390274
+Kamome Diner,True,True,0.9823089,0.017691076
+The Homesman,False,True,0.9654088,0.9654088
+The Perfect Host,False,False,0.37059298,0.37059298
+Teenage Mutant Ninja Turtles,False,True,0.69440913,0.69440913
+The Servant,True,False,0.15487729,0.8451227
+The God of Cookery,False,False,0.12371777,0.12371777
+Kindergarten Cop,True,False,0.08257027,0.91742975
+Terminator 3: Rise of the Machines,True,False,0.12883106,0.871169
+Foul Play,True,True,0.5079644,0.49203563
+Futuresport,False,False,0.22429965,0.22429965
+The Reef,False,False,0.26151186,0.26151186
+Séraphine,True,True,0.77299,0.22701001
+It Came from Outer Space,False,True,0.539769,0.539769
+Go West,False,False,0.1000814,0.1000814
+While We're Young,True,True,0.8036198,0.1963802
+Lone Wolf and Cub: White Heaven in Hell,False,False,0.2498801,0.2498801
+Eternal Sunshine of the Spotless Mind,False,True,0.61133844,0.61133844
+The Jungle Book 2,False,False,0.47367424,0.47367424
+Art School Confidential,True,False,0.23530853,0.7646915
+War on Everyone,True,False,0.08271415,0.91728586
+Ask Me Anything,True,True,0.98566127,0.014338732
+The Lion in Winter,True,False,0.15339488,0.8466051
+DragonHeart: A New Beginning,False,False,0.14123158,0.14123158
+Strange Days,True,False,0.13463008,0.8653699
+Starlet,True,True,0.89968294,0.10031706
+Casualties of War,False,False,0.24747393,0.24747393
+Fly Me to the Moon,False,True,0.6886008,0.6886008
+Sucker Punch,True,True,0.9833066,0.016693413
+Holes,False,False,0.12422148,0.12422148
+Sister,False,True,0.8553115,0.8553115
+The Sound of Music,True,True,0.66924065,0.33075935
+Harry Potter and the Deathly Hallows: Part 2,True,True,0.9271148,0.072885215
+Dante 01,True,False,0.043661535,0.95633847
+American Gangster,False,False,0.16410628,0.16410628
+I'll See You in My Dreams,True,True,0.9832472,0.01675278
+Circle,False,True,0.6558087,0.6558087
+Viva Las Vegas,False,False,0.22953412,0.22953412
+Twister,True,True,0.87966496,0.12033504
+DC Showcase: Catwoman,True,True,0.9712369,0.028763115
+The Legend of Zorro,False,False,0.13434625,0.13434625
+Evelyn Prentice,True,True,0.7623547,0.23764533
+Steve Jobs,True,False,0.099842004,0.900158
+Barfi,False,False,0.16775952,0.16775952
+Popstar: Never Stop Never Stopping,False,False,0.19147468,0.19147468
+Peter Pan,True,True,0.7201432,0.2798568
+Following,False,False,0.2243596,0.2243596
+Stoker,True,True,0.826722,0.17327797
+Tsar,False,False,0.12850447,0.12850447
+Struck by Lightning,True,False,0.35263067,0.6473693
+I Origins,True,False,0.25060844,0.74939156
+Prince Avalanche,False,True,0.761671,0.761671
+Ingrid Goes West,True,True,0.98024976,0.019750237
+Monster Pies,False,False,0.19223107,0.19223107
+To Have and Have Not,True,False,0.06296779,0.9370322
+Enough Said,True,True,0.96224684,0.037753165
+Love Lasts Three Years,True,False,0.46540874,0.53459126
+Gabrielle,True,True,0.9784303,0.021569729
+The Lady from Shanghai,False,True,0.6439624,0.6439624
+28 Days Later,True,False,0.4410238,0.5589762
+Boy Wonder,True,True,0.5050025,0.4949975
+Submarino,False,True,0.69615775,0.69615775
+A Terrible Night,False,False,0.026594214,0.026594214
+2 Days in Paris,True,True,0.64022756,0.35977244
+Hollow Man,True,False,0.05757434,0.94242567
+Cat Ballou,True,True,0.79418916,0.20581084
+Laura,True,True,0.909453,0.090547025
+Jane Got a Gun,False,True,0.8663927,0.8663927
+The 36 Crazy Fists,False,False,0.051377907,0.051377907
+Blended,True,True,0.9274237,0.072576284
+Lola Versus,True,True,0.90671813,0.093281865
+The Family That Preys,True,True,0.9418992,0.05810082
+Inside Man,True,False,0.029887645,0.9701124
+The Longest Yard,False,False,0.3244823,0.3244823
+The Duke of Burgundy,True,True,0.9671144,0.03288561
+Sinbad: Legend of the Seven Seas,False,False,0.21106967,0.21106967
+Sparkle,True,True,0.9599383,0.040061712
+Sorority Row,True,True,0.95603,0.04396999
+Paul Blart: Mall Cop 2,False,False,0.36722136,0.36722136
+Insomnia,False,True,0.666257,0.666257
+Women in Love,True,True,0.8993071,0.10069293
+The Hurricane,False,False,0.15470509,0.15470509
+Chariots of Fire,False,False,0.07149002,0.07149002
+Zero Motivation,True,False,0.25790426,0.7420957
+Romeo and Juliet,True,True,0.64081764,0.35918236
+You Again,True,True,0.985859,0.014141023
+Angel,True,True,0.9476971,0.052302897
+Delta Force 2: The Colombian Connection,False,False,0.29325524,0.29325524
+High Crimes,True,True,0.6791442,0.3208558
+The Wolfman,False,False,0.19545208,0.19545208
+45 Years,True,True,0.7951569,0.2048431
+Bad Words,False,False,0.13887452,0.13887452
+Morvern Callar,True,True,0.9162331,0.08376688
+Valhalla Rising,False,False,0.2061346,0.2061346
+Humpday,False,True,0.79248035,0.79248035
+Bikini Beach,False,False,0.3338224,0.3338224
+Look Who's Talking,False,True,0.81530225,0.81530225
+All Dogs Go to Heaven,True,False,0.17032284,0.82967716
+Foxfire,True,True,0.9760802,0.02391982
+Police Academy: Mission to Moscow,False,False,0.12255415,0.12255415
+Someone's Watching Me!,True,True,0.97438884,0.025611162
+The Deep,False,False,0.1056817,0.1056817
+D.E.B.S.,True,True,0.864054,0.13594598
+Leprechaun,False,False,0.4560408,0.4560408
+The Prestige,False,False,0.35988677,0.35988677
+Ex Machina,False,True,0.5953289,0.5953289
+X+Y,False,False,0.45277488,0.45277488
+Sirens,True,True,0.63054425,0.36945575
+Around the World in 80 Days,False,False,0.06122915,0.06122915
+From Hell,True,False,0.13562156,0.86437845
+Blue Jasmine,True,True,0.99224263,0.0077573657
+National Lampoon's Christmas Vacation,True,True,0.85200304,0.14799696
+Salmon Fishing in the Yemen,False,True,0.5779716,0.5779716

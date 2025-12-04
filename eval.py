@@ -18,9 +18,10 @@ from sklearn.metrics import (
 from utils import *
 
 from all_pass_classifier import all_pass_classify
-from heuristic import heursitic_model
-from sentence_transformer_classifier import sentence_transformer_classify
+from heuristic_classifier import heursitic_model
+from rf_st_classifier import rf_st_classify
 from tfidf_classifier import tfidf_classify
+from xgboost_st_classifier import xgboost_st_classify
 
 
 
@@ -90,7 +91,8 @@ if __name__ == '__main__':
         "all_pass": all_pass_classify,
         "heuristic": heursitic_model,
         "tfidf": tfidf_classify,
-        "sentence_transform": sentence_transformer_classify,
+        "rf_st_transform": rf_st_classify,
+        "xgboost_st": xgboost_st_classify,
     }
 
     predictions = {}

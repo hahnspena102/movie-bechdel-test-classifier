@@ -9,6 +9,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent 
 P = lambda name: ROOT / name
 
+CURRENT_YEAR = 2025
+
 
 def read_and_split_data():
     df = pd.read_parquet('./datasets/movies_metadata.parquet')

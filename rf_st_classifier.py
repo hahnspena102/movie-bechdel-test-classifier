@@ -15,7 +15,7 @@ def keyword_counts(text, keywords):
     text_lower = text.lower()
     return sum(text_lower.count(word) for word in keywords)
 
-def sentence_transformer_classify(m_train, m_test):
+def rf_st_classify(m_train, m_test):
     movies_train = m_train.copy()
     movies_test  = m_test.copy()
 
@@ -41,6 +41,12 @@ def sentence_transformer_classify(m_train, m_test):
         df['male_kw_count']   = df['words'].apply(lambda x: keyword_counts(x, male_keywords))
         df['female_ratio']    = df['female_kw_count'] / (df['female_kw_count'] + df['male_kw_count'] + 1e-6)
 
+        df["release_year"] = pd.to_datetime(df["release_date"], errors="coerce").dt.year
+        df["years_ago"] = CURRENT_YEAR - df["release_year"]
+
+        df["release_year"] = df["release_year"].fillna(df["release_year"].median())
+        df["years_ago"] = df["years_ago"].fillna(df["years_ago"].median())
+
     keyword_features = ['female_kw_count', 'male_kw_count', 'female_ratio']
 
     # sentence transformer embeddings
@@ -54,7 +60,7 @@ def sentence_transformer_classify(m_train, m_test):
     test_embeddings_scaled  = scaler.transform(test_embeddings)
 
     # combine all features
-    FEATURES = ['release_year'] + list(genre_cols) + keyword_features
+    FEATURES = ['years_ago'] + list(genre_cols) + keyword_features
     X_train_basic = movies_train[FEATURES].values
     X_test_basic  = movies_test[FEATURES].values
 
@@ -77,12 +83,18 @@ def sentence_transformer_classify(m_train, m_test):
     m_pred["pass_prob"] = rf.predict_proba(X_test)[:, 1]
     m_pred["pass"] = m_pred["pass_prob"] > 0.5
 
-    print("\nTop 30 Feature Importances:")
+    embedding_features = [f"embed_{i}" for i in range(train_embeddings_scaled.shape[1])]
+
+    FULL_FEATURES = FEATURES + embedding_features
+
+    # compute importances
     importances = pd.DataFrame({
-        "feature": FEATURES,
-        "importance": rf.feature_importances_[:len(FEATURES)]
+        "feature": FULL_FEATURES,
+        "importance": rf.feature_importances_
     }).sort_values(by="importance", ascending=False)
-    print(importances.head(10))
+
+    print("\nTop 20 Features (including embeddings):")
+    print(importances.head(20))
 
     return m_pred
 
