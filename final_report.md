@@ -3,6 +3,8 @@ Hahns Peña - hpena02@calpoly.edu
 
 Ishwarya Namburu - inamburu@calpoly.edu
 
+Presentation: https://docs.google.com/presentation/d/1lxitxX1k-Td8t_ShcBfSrFPdL_xv0tFA-qZXy_qHLNs/edit?usp=sharing 
+
 ### The Bechdel Test
 To pass the Bechdel Test, a movie must have at least two named women who talk to each other about something other than a man. 
 
