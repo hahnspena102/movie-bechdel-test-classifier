@@ -25,7 +25,7 @@ from tfidf_classifier import tfidf_classify
 
 
 #def print_report(name, y_true, y_pred, y_proba):
-def print_report(name, y_true, preds, num_mis = 50): 
+def print_report(name, y_true, preds, num_mis = 10): 
     y_pred = preds['pass']
     y_proba = preds['pass_prob']
 

@@ -59,7 +59,7 @@ def tfidf_classify(m_train, m_test):
         axis=1
     )
 
-    FEATURES = ['release_year','popularity'] + list(tfidf_cols) + list(genre_cols)
+    FEATURES = list(tfidf_cols) + list(genre_cols)
 
     X = movies_train[FEATURES]
     y = movies_train["bechdel_pass"]

@@ -54,7 +54,7 @@ def sentence_transformer_classify(m_train, m_test):
     test_embeddings_scaled  = scaler.transform(test_embeddings)
 
     # combine all features
-    FEATURES = ['release_year', 'popularity'] + list(genre_cols) + keyword_features
+    FEATURES = ['release_year'] + list(genre_cols) + keyword_features
     X_train_basic = movies_train[FEATURES].values
     X_test_basic  = movies_test[FEATURES].values
 
