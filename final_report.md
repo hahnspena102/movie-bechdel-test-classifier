@@ -40,6 +40,7 @@ Intuitively in current media there seem to be male centric and female centric ge
 The dark blue represents genre pairs that failed the most, and dark red represents genre pairs that passed. As hypothesized, genres with the highest fail rate seem to be action, crime, and adventure, and genres with the highest pass rate are romance, drama, and comedy.
 
 **Year Released**
+
 We were curious to see if release year played a role, because the representation of women was probably much lower years ago than it is now, and EDA proved that we were correct.
 ![tfidf_pass](eda/figures/bechdel_year_released.png)
 
