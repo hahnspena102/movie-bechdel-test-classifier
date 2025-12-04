@@ -19,8 +19,8 @@ chosen genre list of Adventure, Action, Crime, War, Western, or History. We chos
 
 For our final classifier, we are currently trying to use a random forest classifier with genres and tfidif of the concatenated overview, tagline, and title as features. Overall this classifier works decently well. Currently, our model has a higher F1 Score and accuracy than our heuristic and base line. However, our model still struggles to correctly getting the failing movies. 
 
-![random_forest_cm](figures/random_forest_cm.png)
-![random_forest_eval](figures/random_forest_eval.png)
+![random_forest_cm](figures/tfidf_cm.png)
+![random_forest_eval](figures/tfidf_eval.png)
 
 
 Moving forward, we plan on trying out new features. We want to look into using the script to provide more words. We may use sentiment analysis to get more information on the word usage and bechdel pass/fail. Moving away from words, we may look more in detail with features such as year, female crew ratio, female cast ratio, popularity, and revenue. For now, we think random forest works for our model.

@@ -91,7 +91,7 @@ if __name__ == '__main__':
         "all_pass": all_pass_classify,
         "heuristic": heursitic_model,
         "tfidf": tfidf_classify,
-        "rf_st_transform": rf_st_classify,
+        "rf_st": rf_st_classify,
         "xgboost_st": xgboost_st_classify,
     }
 
