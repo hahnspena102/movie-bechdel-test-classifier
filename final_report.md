@@ -37,12 +37,12 @@ The dark blue represents genre pairs that failed the most, and dark red represen
 
 **Year Released**
 We were curious to see if release year played a role, because the representation of women was probably much lower years ago than it is now, and EDA proved that we were correct.
-
-![genres](eda/figures/cast_crew.png)
+![tfidf_pass](eda/figures/bechdel_year_released.png)
 
 **Cast & Crew**
 
 We were curious to see if underrepresentation in the cast and crew translated to underrepresentation in the actual movie. However, as you can see there was no clear trend to be observed.
+![genres](eda/figures/cast_crew.png)
 
 ![cast_crew](eda/figures/cast_crew.png)
 
