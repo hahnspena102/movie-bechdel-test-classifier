@@ -8,10 +8,10 @@ Presentation: https://docs.google.com/presentation/d/1lxitxX1k-Td8t_ShcBfSrFPdL_
 ### The Bechdel Test
 To pass the Bechdel Test, a movie must have at least two named women who talk to each other about something other than a man. 
 
-The Bechdel Test highlight the gender gap in media representation.This test proves that underrepresentation is a recurring trend in the industry, and encourages deeper discussions about unconscious bias.
+The Bechdel Test highlights the gender gap in media representation.This test proves that underrepresentation is a recurring trend in the industry, and encourages deeper discussions about unconscious bias.
 
 ### Dataset
-We got our data from a kaggle movie dataset with feature such as genres, release date, popularity, cast, crew, ratings, movie metadata, and more. For our ground truth, we used data from this website  that has a list of movies that pass and fail the bechdel test. 
+We got our data from a kaggle movie dataset with feature such as genres, release date, popularity, cast, crew, ratings, movie metadata, and more. For our ground truth, we used data from this website that has a list of movies that pass and fail the bechdel test. 
 
 ### EDA
 **Title / Overview / Taglines**
